@@ -37,7 +37,10 @@ kg_software <- kg_software %>%
   mutate(
     softwaretype = str_remove(softwaretype,"<http://data.gesis.org/softwarekg/vocab/SoftwareType_"),
     softwaretype = str_remove(softwaretype,">$")
-  )
+  ) %>% 
+  group_by(sw) %>% 
+  slice_sample(n=1) %>% 
+  ungroup()
 
 # Mentions
 kg_mentions <- kg_mentions %>% 
@@ -59,10 +62,6 @@ kg_concepts <- kg_concepts %>%
 
 kg_mentions <- kg_mentions %>% 
   left_join(kg_concepts,by="journal") 
-
-
-#group_edge_betweenness
-#infomap.community()
 
 
 # Edges-List: Co-mentions
@@ -98,9 +97,14 @@ com_nodes <- kg_mentions %>%
 gr_com <- tbl_graph(com_nodes, com_edges, directed = T)
 
 
-# Add measures to graph
-# - detect communities (Louvain-Algorithm)
-# - compute centrality measures
+# Group detection alternatives for undirected graphs
+# group_edge_betweenness
+# infomap.community()
+# leiden
+
+#https://www.r-bloggers.com/2012/06/summary-of-community-detection-algorithms-in-igraph-0-6/
+
+
 gr_com <- gr_com %>% 
   mutate(
     community_no = as.factor(group_infomap(weights=p_cond)),
@@ -114,10 +118,11 @@ gr_com <- gr_com %>%
 # - get nodes by community
 # - compute measures
 # - combine data
+# TODO: count article types, pivot wider
 com_nodes <- gr_com %>% 
   as_tibble() 
 
-# TODO: count article types, pivot wider
+
 gr_communities <-  gr_com %>%  
   morph(to_split, community_no) %>% 
   crystallise() %>%  

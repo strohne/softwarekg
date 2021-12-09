@@ -121,6 +121,8 @@ gr_com <- gr_com %>%
 com_communities <- gr_com %>% 
   as_tibble() 
 
+# TODO: count article types, pivot wider
+
 communities_data <-  gr_com %>%  
   morph(to_split, community_no) %>% 
   crystallise() %>%  

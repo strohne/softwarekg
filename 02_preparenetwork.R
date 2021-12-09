@@ -69,7 +69,7 @@ kg_mentions <- kg_mentions %>%
 com_edges <- kg_mentions %>% 
   select(item=article, feature=software) %>% 
   get_cooccurrence() %>% 
-  filter(n > 0) %>% 
+  filter(n > 0, source != target) %>% 
   mutate(weight=p_cond)
 
 
@@ -102,49 +102,54 @@ gr_com <- tbl_graph(com_nodes, com_edges, directed = T)
 # - detect communities (Louvain-Algorithm)
 # - compute centrality measures
 gr_com <- gr_com %>% 
-  morph(to_undirected) %>%
   mutate(
-    community_no = as.factor(group_louvain(weights=p_cond))
-  ) %>% 
-  unmorph() %>% 
-  mutate(
+    community_no = as.factor(group_infomap(weights=p_cond)),
     graph_degree_in = centrality_degree(mode="in", weights=p_cond),
     graph_degree_out = centrality_degree(mode="out", weights=p_cond),
     graph_betweenness = centrality_betweenness(directed=T , weights=p_cond)
   )
   
 
-# Communities 
+# Overwrite nodes with detailed information
 # - get nodes by community
 # - compute measures
 # - combine data
-com_communities <- gr_com %>% 
+com_nodes <- gr_com %>% 
   as_tibble() 
 
 # TODO: count article types, pivot wider
-
-communities_data <-  gr_com %>%  
+gr_communities <-  gr_com %>%  
   morph(to_split, community_no) %>% 
   crystallise() %>%  
   mutate(
     density = map(graph,graph.density), 
-    clique_no = map(graph, count_max_cliques),
+    #clique_no = map(graph, count_max_cliques),
     n_edges = map(graph, gsize), 
     n_nodes = map(graph, gorder),
-    recpro = map(graph, reciprocity),
+    #recpro = map(graph, reciprocity),
     community_no = as.factor(row_number()),
-    community_degree = map(graph, degree),
-    community_betweenness = map(graph, betweenness)
+    #community_degree = map(graph, degree),
+    #community_betweenness = map(graph, betweenness)
   )
 
-com_nodes <-com_communities %>% 
-  left_join(select(communities_data, -graph), by="community_no") 
+com_nodes <- com_nodes %>% 
+  left_join(select(gr_communities, -graph), by="community_no") 
 
-rm(com_communities, communities_data)
+rm(gr_communities)
+
+
+# Auswerten der Communities %>%  
+communities <- com_nodes %>% 
+  group_by(community_no) %>% 
+  summarise(
+    n_nodes = unique(n_nodes), 
+    n_edges = unique(n_edges)
+  )
+
 
 # Abspeichern 
-write_xlsx(com_nodes, "network/com_nodes.xlsx")
-write_xlsx(com_edges, "network/com_edges.xlsx")
+write_xlsx(com_nodes, paste0(path.data, "../network/com_nodes.xlsx"))
+write_xlsx(com_edges, paste0(path.data, "../network/com_edges.xlsx"))
 
 
 

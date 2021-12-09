@@ -133,7 +133,7 @@ gr_communities <-  gr_com %>%
   )
 
 com_nodes <- com_nodes %>% 
-  left_join(select(gr_communities, -graph), by="community_no") 
+  left_join(select(gr_communities, -graph, -name), by="community_no") 
 
 rm(gr_communities)
 
@@ -144,7 +144,8 @@ communities <- com_nodes %>%
   summarise(
     n_nodes = unique(n_nodes), 
     n_edges = unique(n_edges)
-  )
+  ) %>% 
+  ungroup()
 
 
 # Abspeichern 

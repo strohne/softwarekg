@@ -114,16 +114,16 @@ gr_com <- gr_com %>%
   )
   
 
-# Communities 
+# Overwrite nodes with detailed information
 # - get nodes by community
 # - compute measures
 # - combine data
-com_communities <- gr_com %>% 
+# TODO: count article types, pivot wider
+com_nodes <- gr_com %>% 
   as_tibble() 
 
-# TODO: count software types, pivot wider
 
-communities_data <-  gr_com %>%  
+gr_communities <-  gr_com %>%  
   morph(to_split, community_no) %>% 
   crystallise() %>%  
   mutate(
@@ -137,14 +137,24 @@ communities_data <-  gr_com %>%
     #community_betweenness = map(graph, betweenness)
   )
 
-com_nodes <-com_communities %>% 
-  left_join(select(communities_data, -graph), by="community_no") 
+com_nodes <- com_nodes %>% 
+  left_join(select(gr_communities, -graph), by="community_no") 
 
-rm(com_communities, communities_data)
+rm(gr_communities)
+
+
+# Auswerten der Communities %>%  
+communities <- com_nodes %>% 
+  group_by(community_no) %>% 
+  summarise(
+    n_nodes = unique(n_nodes), 
+    n_edges = unique(n_edges)
+  )
+
 
 # Abspeichern 
-write_xlsx(com_nodes, "network/com_nodes.xlsx")
-write_xlsx(com_edges, "network/com_edges.xlsx")
+write_xlsx(com_nodes, paste0(path.data, "../network/com_nodes.xlsx"))
+write_xlsx(com_edges, paste0(path.data, "../network/com_edges.xlsx"))
 
 
 

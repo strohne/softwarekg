@@ -104,6 +104,7 @@ gr <- tbl_graph(com_nodes, com_edges, directed = T)
 
 
 # Community detection and basic node properties
+set.seed(123)
 gr <- gr %>% 
   mutate(
     #community_no = as.factor(group_infomap(weights=p_cond)),
@@ -181,36 +182,12 @@ gr_communities  <- gr_communities_netstats %>%
 
 rm(gr_communities_netstats,gr_communities_nodes_in,gr_communities_nodes_out,gr_communities_nodes_between)
 
-# 
-# 
-# # Overwrite nodes with detailed information
-# # - get nodes by community
-# # - compute measures
-# # - combine data
-# # TODO: count article types, pivot wider
-
-# 
-# 
-# 
-# com_nodes <- com_nodes %>% 
-#   left_join(select(gr_communities, -graph), by="community_no") 
-# 
-# rm(gr_communities)
-# 
-# 
-# # Auswerten der Communities %>%  
-# communities <- com_nodes %>% 
-#   group_by(community_no) %>% 
-#   summarise(
-#     n_nodes = unique(n_nodes), 
-#     n_edges = unique(n_edges)
-#   )
-# 
 
 # Nodes-Liste mit erweiterten Informationen abspeichern 
  com_nodes <- gr %>% 
    as_tibble() 
  
+# Plots
  com_nodes %>%  
    group_by(community_no) %>% 
    count(softwaretype) %>% 

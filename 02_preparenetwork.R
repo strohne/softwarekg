@@ -141,7 +141,6 @@ gr_communities_netstats <-  gr %>%
   select(-graph)
 
 
-
 # Node based community properties
 gr_communities_nodes_in <- gr %>% 
   as_tibble() %>% 
@@ -208,8 +207,8 @@ rm(gr_communities_netstats,gr_communities_nodes_in,gr_communities_nodes_out,gr_c
 # 
 
 # Abspeichern 
-write_xlsx(com_nodes, paste0(path.data, "../network/com_nodes.xlsx"))
-write_xlsx(com_edges, paste0(path.data, "../network/com_edges.xlsx"))
+write_csv(com_nodes, paste0(path.data, "../network/com_nodes.csv"))
+write_csv(com_edges, paste0(path.data, "../network/com_edges.csv"))
 
 
 

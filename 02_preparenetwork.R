@@ -17,6 +17,7 @@ library(leidenAlg)
 library(writexl)
 library(npmi)
 
+theme_set(theme_bw(base_size=12))
 
 #
 # Read data ----
@@ -102,7 +103,7 @@ gr <- tbl_graph(com_nodes, com_edges, directed = T)
 gr <- gr %>% 
   mutate(
     #community_no = as.factor(group_infomap(weights=p_cond)),
-    community_no = leiden.community(.,  n.iterations = 10)$membership,
+    community_no = leiden.community(.,  n.iterations = 20)$membership,
     degree_in = centrality_degree(mode="in", weights=p_cond),
     degree_out = centrality_degree(mode="out", weights=p_cond),
     betweenness = centrality_betweenness(directed=T , weights=p_cond)
@@ -183,8 +184,7 @@ rm(gr_communities_netstats,gr_communities_nodes_in,gr_communities_nodes_out,gr_c
 # # - compute measures
 # # - combine data
 # # TODO: count article types, pivot wider
-# com_nodes <- gr_com %>% 
-#   as_tibble() 
+
 # 
 # 
 # 
@@ -202,6 +202,45 @@ rm(gr_communities_netstats,gr_communities_nodes_in,gr_communities_nodes_out,gr_c
 #     n_edges = unique(n_edges)
 #   )
 # 
+
+# Nodes-Liste mit erweiterten Informationen abspeichern 
+ com_nodes <- gr %>% 
+   as_tibble() 
+ 
+ com_nodes %>%  
+   group_by(community_no) %>% 
+   count(softwaretype) %>% 
+   ggplot(aes(x=softwaretype, y=n, fill=softwaretype)) +
+   geom_col(stat="identity") +
+   facet_wrap(~community_no) +
+   coord_flip()
+
+ 
+# Plot erzeugen: In- und Out-Degree je Community-No je Software-Typ
+com_nodes %>%  
+  filter(as.numeric(community_no) < 10) %>% 
+  pivot_longer(cols=starts_with("degree"), names_to="degree") %>% 
+  ggplot(aes(x=softwaretype, y=value, fill=degree)) +
+  #ggplot(aes(x=degree, y=value, fill=softwaretype, group = softwaretype)) +
+  geom_boxplot() +
+  facet_wrap(~community_no) +
+  scale_y_log10() +
+  coord_flip()
+ggsave(paste0(path.data, "../network/degree_by_softwaretype.png"), width=5, height=5, units="cm")
+
+# 
+com_nodes %>%  
+  filter(as.numeric(community_no) < 10) %>%
+  group_by(community_no, softwaretype) %>% 
+  slice_sample(n=10) %>% 
+  ungroup() %>% 
+  pivot_longer(cols=starts_with("degree"), names_to="degree") %>% 
+  ggplot(aes(x=softwaretype, y=value, fill=degree)) +
+  geom_boxplot() +
+  geom_text(aes(label=label)) + 
+  facet_wrap(~community_no) +
+  scale_y_log10() 
+
 
 # Abspeichern 
 write_csv(com_nodes, paste0(path.data, "../network/com_nodes.csv"))

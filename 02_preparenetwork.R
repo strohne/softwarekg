@@ -107,7 +107,7 @@ gr <- tbl_graph(com_nodes, com_edges, directed = T)
 gr <- gr %>% 
   mutate(
     #community_no = as.factor(group_infomap(weights=p_cond)),
-    community_no = leiden.community(.,  n.iterations = 20)$membership,
+    community_no = leiden.community(.,  n.iterations = 100)$membership,
     degree_in = centrality_degree(mode="in", weights=p_cond),
     degree_out = centrality_degree(mode="out", weights=p_cond),
     betweenness = centrality_betweenness(directed=T , weights=p_cond)
@@ -144,7 +144,7 @@ gr_communities_netstats <-  gr %>%
 
 
 # Node based community properties
-gr_communities_nodes_in <- gr %>% 
+com_nodes_in <- gr %>% 
   as_tibble() %>% 
   group_by(community_no) %>% 
   arrange(-degree_in) %>% 
@@ -154,7 +154,7 @@ gr_communities_nodes_in <- gr %>%
   ) %>% 
   ungroup()
 
-gr_communities_nodes_out <- gr %>% 
+com_nodes_out <- gr %>% 
   as_tibble() %>% 
   group_by(community_no) %>% 
   arrange(-degree_out) %>% 
@@ -164,7 +164,7 @@ gr_communities_nodes_out <- gr %>%
   ) %>% 
   ungroup()
 
-gr_communities_nodes_between <- gr %>% 
+com_nodes_between <- gr %>% 
   as_tibble() %>% 
   group_by(community_no) %>% 
   arrange(-betweenness) %>% 
@@ -174,12 +174,27 @@ gr_communities_nodes_between <- gr %>%
   ) %>% 
   ungroup()
 
-gr_communities  <- gr_communities_netstats %>% 
-  left_join(gr_communities_nodes_in) %>%
-  left_join(gr_communities_nodes_out) %>% 
-  left_join(gr_communities_nodes_between)
+com_nodes_softwares <- gr %>% 
+  as_tibble() %>% 
+  group_by(community_no) %>% 
+  count(softwaretype) %>% 
+  mutate(p = n / sum(n)) %>% 
+  ungroup() %>% 
+  pivot_wider(
+    names_from = softwaretype,
+    values_from=c("n","p"),
+    values_fill = 0
+  )
+  
 
-rm(gr_communities_netstats,gr_communities_nodes_in,gr_communities_nodes_out,gr_communities_nodes_between)
+gr_communities  <- gr_communities_netstats %>% 
+  left_join(com_nodes_in) %>%
+  left_join(com_nodes_out) %>% 
+  left_join(com_nodes_between) %>% 
+  left_join(com_nodes_softwares)
+
+
+rm(gr_communities_netstats,com_nodes_in,com_nodes_out,com_nodes_between,com_nodes_softwares)
 
 # 
 # 

@@ -8,6 +8,10 @@
 # Packages -----
 #
 
+#install.packages('devtools')
+#devtools::install_github('kharchenkolab/leidenAlg', build_vignettes = TRUE)
+
+
 library(tidyverse)
 
 library(igraph)
@@ -16,7 +20,6 @@ library(leidenAlg)
 
 library(writexl)
 library(npmi)
-
 
 #
 # Read data ----

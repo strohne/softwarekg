@@ -3,6 +3,12 @@
 #
 
 
+# https://github.com/TomKellyGenetics/leiden
+# 
+# devtools::install_github("rstudio/reticulate", ref = "86ebb56")
+# reticulate::use_condaenv("r-reticulate")
+# reticulate::conda_install("r-reticulate", "leidenalg", channel = "vtraag")
+
 query_predicates <- paste0(
   query_context,
   "SELECT DISTINCT ?Concept FROM <http://data.gesis.org/softwarekg2> 

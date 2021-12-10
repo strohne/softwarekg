@@ -9,11 +9,10 @@
 #
 
 library(tidyverse)
-library(widyr)
 
 library(igraph)
 library(tidygraph)
-library(ggraph)
+library(leidenAlg)
 
 library(writexl)
 library(npmi)
@@ -30,7 +29,7 @@ kg_mentions <- read_csv2(paste0(path.data,"SoMeSci_mentions.csv"))
 kg_software <- read_csv2(paste0(path.data,"SoMeSci_software.csv")) 
 
 #
-# To network ----
+# Prepare data ----
 #
 
 kg_software <- kg_software %>% 
@@ -38,7 +37,8 @@ kg_software <- kg_software %>%
     softwaretype = str_remove(softwaretype,"<http://data.gesis.org/softwarekg/vocab/SoftwareType_"),
     softwaretype = str_remove(softwaretype,">$")
   ) %>% 
-  group_by(sw) %>% 
+  rename(software = sw) %>% 
+  group_by(software) %>% 
   slice_sample(n=1) %>% 
   ungroup()
 
@@ -63,19 +63,22 @@ kg_concepts <- kg_concepts %>%
 kg_mentions <- kg_mentions %>% 
   left_join(kg_concepts,by="journal") 
 
+#
+# Prepare network ----
+#
 
 # Edges-List: Co-mentions
 com_edges <- kg_mentions %>% 
   select(item=article, feature=software) %>% 
   get_cooccurrence() %>% 
   filter(n > 0, source != target) %>% 
-  mutate(weight=p_cond)
+  mutate(weight = p_cond)
 
 
 # Nodes-List
 com_nodes <- kg_mentions %>% 
   distinct(software, .keep_all=T) %>% 
-  left_join(distinct(kg_software),by=c("software"="sw")) %>% 
+  left_join(distinct(kg_software),by="software") %>% 
   select(id=software, label = name,softwaretype) %>% 
   
   inner_join(
@@ -85,77 +88,124 @@ com_nodes <- kg_mentions %>%
     by=c("id"="value")
   ) 
 
-
-
-
-#
-# Network ----
-#
-
-
 # Create network
-gr_com <- tbl_graph(com_nodes, com_edges, directed = T)
+gr <- tbl_graph(com_nodes, com_edges, directed = T)
 
 
-# Group detection alternatives for undirected graphs
-# group_edge_betweenness
-# infomap.community()
-# leiden
-
-#https://www.r-bloggers.com/2012/06/summary-of-community-detection-algorithms-in-igraph-0-6/
+#
+# Network analytics ----
+#
 
 
-gr_com <- gr_com %>% 
+
+# Community detection and basic node properties
+gr <- gr %>% 
   mutate(
-    community_no = as.factor(group_infomap(weights=p_cond)),
-    graph_degree_in = centrality_degree(mode="in", weights=p_cond),
-    graph_degree_out = centrality_degree(mode="out", weights=p_cond),
-    graph_betweenness = centrality_betweenness(directed=T , weights=p_cond)
+    #community_no = as.factor(group_infomap(weights=p_cond)),
+    community_no = leiden.community(.,  n.iterations = 10)$membership,
+    degree_in = centrality_degree(mode="in", weights=p_cond),
+    degree_out = centrality_degree(mode="out", weights=p_cond),
+    betweenness = centrality_betweenness(directed=T , weights=p_cond)
   )
+
+
+# Helper function for calculating mean transitivity in the communities
+# Local transitivity = clustering coefficient 
+# = how connected are the triads in the network
+graph.transitivity <- function(gr) {
+  gr <- gr %>%
+    activate(nodes) %>%
+    mutate(tr = local_transitivity() ) %>%
+    as_tibble()
   
-
-# Overwrite nodes with detailed information
-# - get nodes by community
-# - compute measures
-# - combine data
-# TODO: count article types, pivot wider
-com_nodes <- gr_com %>% 
-  as_tibble() 
+  mean(gr$tr)
+}
 
 
-gr_communities <-  gr_com %>%  
+# Structural community properties
+gr_communities_netstats <-  gr %>%  
   morph(to_split, community_no) %>% 
   crystallise() %>%  
   mutate(
-    density = map(graph,graph.density), 
-    #clique_no = map(graph, count_max_cliques),
-    n_edges = map(graph, gsize), 
-    n_nodes = map(graph, gorder),
-    #recpro = map(graph, reciprocity),
-    community_no = as.factor(row_number()),
-    #community_degree = map(graph, degree),
-    #community_betweenness = map(graph, betweenness)
-  )
-
-com_nodes <- com_nodes %>% 
-  left_join(select(gr_communities, -graph, -name), by="community_no") 
-
-rm(gr_communities)
+    community_no = as.factor(row_number()-1),
+    
+    n_nodes = map_int(graph, gorder),
+    n_edges = map_dbl(graph, gsize), 
+    density = map_dbl(graph,graph.density), 
+    transitivity = map_dbl(graph,graph.transitivity),
+    distance = map_dbl(graph,mean_distance),
+  ) %>% 
+  select(-graph)
 
 
-# Auswerten der Communities %>%  
-communities <- com_nodes %>% 
+# Node based community properties
+gr_communities_nodes_in <- gr %>% 
+  as_tibble() %>% 
   group_by(community_no) %>% 
-  summarise(
-    n_nodes = unique(n_nodes), 
-    n_edges = unique(n_edges)
+  arrange(-degree_in) %>% 
+  slice_max(degree_in, n =3) %>% 
+  summarize(
+    top_degree_in = paste0(label, collapse=";")
   ) %>% 
   ungroup()
 
+gr_communities_nodes_out <- gr %>% 
+  as_tibble() %>% 
+  group_by(community_no) %>% 
+  arrange(-degree_out) %>% 
+  slice_max(degree_out, n =3) %>% 
+  summarize(
+    top_degree_out = paste0(label, collapse=";")
+  ) %>% 
+  ungroup()
+
+gr_communities_nodes_between <- gr %>% 
+  as_tibble() %>% 
+  group_by(community_no) %>% 
+  arrange(-betweenness) %>% 
+  slice_max(betweenness, n =3) %>% 
+  summarize(
+    top_betweenness = paste0(label, collapse=";")
+  ) %>% 
+  ungroup()
+
+gr_communities  <- gr_communities_netstats %>% 
+  left_join(gr_communities_nodes_in) %>%
+  left_join(gr_communities_nodes_out) %>% 
+  left_join(gr_communities_nodes_between)
+
+rm(gr_communities_netstats,gr_communities_nodes_in,gr_communities_nodes_out,gr_communities_nodes_between)
+
+# 
+# 
+# # Overwrite nodes with detailed information
+# # - get nodes by community
+# # - compute measures
+# # - combine data
+# # TODO: count article types, pivot wider
+# com_nodes <- gr_com %>% 
+#   as_tibble() 
+# 
+# 
+# 
+# com_nodes <- com_nodes %>% 
+#   left_join(select(gr_communities, -graph), by="community_no") 
+# 
+# rm(gr_communities)
+# 
+# 
+# # Auswerten der Communities %>%  
+# communities <- com_nodes %>% 
+#   group_by(community_no) %>% 
+#   summarise(
+#     n_nodes = unique(n_nodes), 
+#     n_edges = unique(n_edges)
+#   )
+# 
 
 # Abspeichern 
-write_xlsx(com_nodes, paste0(path.data, "../network/com_nodes.xlsx"))
-write_xlsx(com_edges, paste0(path.data, "../network/com_edges.xlsx"))
+write_csv(com_nodes, paste0(path.data, "../network/com_nodes.csv"))
+write_csv(com_edges, paste0(path.data, "../network/com_edges.csv"))
 
 
 

@@ -1,0 +1,841 @@
+id,label,softwaretype,con_medicine,con_biochemistry_genetics_and_molecular_biology,con_agricultural_and_biological_sciences,con_neuroscience,con_computer_science,con_mathematics,con_environmental_science,con_immunology_and_microbiology,con_pharmacology_toxicology_and_pharmaceutics,con_chemistry,con_physics_and_astronomy,con_social_sciences,con_NA,con_veterinary,con_health_professions,con_chemical_engineering,con_engineering,con_nursing,con_materials_science,con_multidisciplinary,con_psychology,mt_usage,mt_mention,mt_deposition,mt_creation,community_no,degree_in,degree_out,betweenness
+<http://novosnp.bioinf.be/>,NovoSNP,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.6778711484593836,6,0
+<http://lpg.nci.nih.gov/>,SNPdetector,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,2.6778711484593836,6,0
+<https://droog.gs.washington.edu/polyphred>,PolyPhred,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.6778711484593836,6,0
+<https://www.wikidata.org/wiki/Q11368>,Unix,OperatingSystem,1,3,2,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,5.060711241018146,3.666666666666667,0
+<https://www.wikidata.org/wiki/Q15777>,C,ProgrammingEnvironment,1,6,5,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,1,0,0,3,14.641937644623066,3.9999999999999987,1360
+<https://www.wikidata.org/wiki/Q388>,Linux,OperatingSystem,2,16,8,8,14,14,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,5,0,0,3,35.343320389974956,4.470588235294111,13299
+<https://www.wikidata.org/wiki/Q42478>,Perl,ProgrammingEnvironment,2,6,4,2,4,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7,0,0,0,3,23.587968325159977,5.571428571428574,1085
+<http://bio.ifom-firc.it/NTFootPrinter>,NemaFootPrinter,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1.0350140056022408,4,0
+<https://www.wikidata.org/wiki/Q251>,Java,ProgrammingEnvironment,2,14,11,8,12,12,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,15,5,0,0,9,33.28927078797139,2.882352941176468,28574
+<https://www.wikidata.org/wiki/Q47607>,SQL,ProgrammingEnvironment,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1.5419509375154736,3,0
+<https://www.wikidata.org/wiki/Q11272>,Excel,Application,68,62,61,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,68,1,0,0,10,46.26117596969276,1.5652173913043488,169066
+<https://www.wikidata.org/wiki/Q1406>,Windows,OperatingSystem,82,93,81,6,16,16,6,0,0,1,1,0,1,0,0,0,0,0,1,1,0,94,13,0,0,3,63.43684410800116,2.06862745098039,95320
+<https://www.wikidata.org/wiki/Q14116>,Mac,OperatingSystem,12,21,16,8,10,10,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17,6,0,0,3,29.884163125437908,3.6956521739130475,12283
+<https://www.wikidata.org/wiki/Q2378>,Visual Basic,ProgrammingEnvironment,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,3,2.8732176741664404,3,0
+<https://www.wikidata.org/wiki/Q2407>,C++,ProgrammingEnvironment,1,15,11,9,13,13,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,3,28.58023147547939,3.2000000000000033,15693
+<http://www.ebi.ac.uk/thornton-srv/software/PoreWalker>,PoreWalker,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0.2857142857142857,2,0
+<https://www.wikidata.org/wiki/Q2370>,C#,ProgrammingEnvironment,1,3,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,0,3,4.63184727985487,3.5,0
+<http://compbio.clemson.edu/DelPhi.php>,DelPhi,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0.7549628547071001,5,0
+<https://www.wikidata.org/wiki/Q83303>,Fortran,ProgrammingEnvironment,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1.7311533308975762,3.5,0
+<http://doi.org/10.1371/journal.pone.0078786>,ReMIT Client,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,4.20952380952381,6,0
+<https://github.com/dcm4che/dcm4chee-arc-light/>,dcm4chee,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4.20952380952381,6,0
+<https://www.dcm4che.org/>,dcm4che,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4.20952380952381,6,0
+<https://www.wikidata.org/wiki/Q1301762>,OsiriX,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4.20952380952381,6,0
+<https://www.wikidata.org/wiki/Q188531>,Objective-C,ProgrammingEnvironment,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4.20952380952381,6,0
+<http://www.cse.lehigh.edu/~chen/software.htm>,VASP-E,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0.7683473389355742,4,0
+<https://www.wikidata.org/wiki/Q178940>,gcc,Application,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,3.3882961880404334,4.5,0
+<http://bioinfo.noble.org/PolyGenic_QTL>,PEPIS,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0.2095238095238095,2,0
+<http://www.binarybottle.com/mindboggle.html>,Mindboggle,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0.45384240652782853,5,0
+<https://mathworks.com/products/image.html>,Image Processing Toolbox,PlugIn,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,2.337315795883571,3,0
+<https://www.wikidata.org/wiki/Q169478>,MATLAB,ProgrammingEnvironment,103,117,117,17,9,8,8,7,0,0,0,0,0,0,0,0,1,0,0,0,0,113,11,0,0,2,90.83294040806186,1.487394957983191,142650
+<http://coxpress.sf.net/>,coXpress,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5.579380139152435,9,0
+<https://bioconductor.org/packages/hgu95av2>,hgu95av2,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5.579380139152435,9,0
+<https://bioconductor.org/packages/hu6800.db>,hu6800,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5.579380139152435,9,0
+<https://cran.r-project.org/package=gdata>,gdata,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5.579380139152435,9,0
+<https://cran.r-project.org/package=gplots>,gplots,PlugIn,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,12.671452351681976,12,0
+<https://cran.r-project.org/package=gtools>,gtools,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5.579380139152435,9,0
+<https://cran.r-project.org/package=plotrix>,plotrix,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5.579380139152435,9,0
+<https://www.wikidata.org/wiki/Q206904>,R,ProgrammingEnvironment,78,88,76,4,7,7,4,2,3,2,2,0,0,1,1,0,0,0,0,0,0,88,8,0,0,1,207.35242550184105,3.5698924731182773,286401
+<http://webs.uvigo.es/acraaj/GenomePop.htm>,GenomePop,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0.17877237851662403,4,0
+<https://www.wikidata.org/wiki/Q28865>,Python,ProgrammingEnvironment,9,25,20,12,14,13,10,1,0,0,0,0,0,0,0,0,1,0,0,0,0,20,8,0,0,8,67.53729823963728,4.192307692307687,59202.5
+<https://sourceforge.net/projects/andestools>,ANDES,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0.21243336044095054,3,0
+<https://github.com/krm15/ACME>,ACME,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0.11210571184995735,3,0
+<https://github.com/Chaste/Chaste>,Chaste,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0.5121057118499573,5,0
+<https://www.wikidata.org/wiki/Q11393>,VirtualBox,Application,0,3,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,8,12.266448143611743,6.999999999999997,775
+<http://code.google.com/p/biographer>,biographer,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0.06862745098039215,2,0
+<http://www.cellxpress.org/>,cellXpress,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0.06862745098039215,2,0
+<http://www.baseclear.com/bioinformatics-tools>,SSPACE-LongRead,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1.2683473389355742,4,0
+<https://github.com/PacificBiosciences/blasr>,BLASR,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1.2683473389355742,4,0
+<http://pep2path.sourceforge.net/>,Pep2Path,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0.15056725031149581,4,0
+<http://pathomx.org/>,Pathomx,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2.1505672503114956,7,0
+<https://github.com/wmayner/pyphi>,PyPhi,Application,0,2,1,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,2.765951865696111,4.5,0
+<https://www.wikidata.org/wiki/Q201904>,Qt,Application,0,2,1,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,4.7659518656961115,5.5,0
+<https://www.wikidata.org/wiki/Q381>,Ubuntu,OperatingSystem,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2.1505672503114956,7,0
+<http://phagocytes.ca/miisr>,Molecular Interactions in Super-Resolution,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2.120509073194495,6,0
+<http://www.phagocytes.ca/miisr>,MIiSR,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2.120509073194495,6,0
+<https://code.google.com/archive/p/quickpalm>,QuickPALM,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2.120509073194495,6,0
+<https://github.com/BrainDynamicsUSYD/nftsim>,NFTsim,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2.1254901960784314,4,0
+<https://www.wikidata.org/wiki/Q16691>,OpenSUSE,OperatingSystem,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.1254901960784314,4,0
+<https://www.wikidata.org/wiki/Q215273>,RHEL,OperatingSystem,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.1254901960784314,4,0
+<https://github.com/mlbendall/telescope>,Telescope,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0.14076332874286837,3,0
+<https://www.wikidata.org/wiki/Q286820>,BLAST,Application,20,22,22,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,4,55.665892093813866,4.727272727272731,36442
+<http://comp-bio.anu.edu.au/bellerophon/bellerophon.pl>,Bellerpheron,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.954978354978355,10,0
+<http://pyrotagger.jgi-psf.org/>,PyroTagger,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.954978354978355,10,0
+<http://rdp.cme.msu.edu/>,RDP Classifier,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.954978354978355,10,0
+<http://www.purl.oclc.org/estimates>,EstimateS,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,6.826842154261508,7,0
+<http://www.ub.edu/dnasp>,DNAsp,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,17.31492565405609,17,0
+<https://www.wikidata.org/wiki/Q5531616>,Geneious,Application,1,3,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,13.87682178932179,8.999999999999998,0
+<https://www.wikidata.org/wiki/Q6715328>,MEGA,Application,9,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,4,44.36282631233343,8.599999999999994,21786
+<https://www.wikidata.org/wiki/Q6719088>,MUSCLE,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,10.823797879335855,6.999999999999997,0
+<https://www.wildblueberrymedia.net/pcord>,PCORD,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.954978354978354,10,0
+<https://www.wikidata.org/wiki/Q21850561>,TopHat,Application,1,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,14,15.820276497695854,10,7
+<https://github.com/lh3/bwa>,BWA-MEM,Application,1,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,11,17.42388632872504,12.5,0
+<http://bioinf.wehi.edu.au/software/goseq>,GOseq,PlugIn,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<http://kobas.cbi.pku.edu.cn/>,KOBAS,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<http://liulab.dfci.harvard.edu/MACS>,MACS,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<http://meme.sdsc.edu/>,FIMO,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<https://bioconductor.org/packages/DESeq>,DESeq,PlugIn,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<https://github.com/htseq/htseq>,HTSeq,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<https://sourceforge.net/projects/skewer>,skewer,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,14,7.153609831029186,10,0
+<https://pstnet.com/products/e-prime>,E-Prime,Application,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,2.769338368258696,1.9999999999999998,1586
+<https://mathworks.com/products/image-acquisition.html>,Image Acquisition Toolbox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0.34173669467787116,2,0
+<http://www.abcc.ncifcrf.gov/wps/wps_index.php>,WholePathwayScope,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0.3431372549019608,2,0
+<https://www.wikidata.org/wiki/Q1204300>,Stata,Application,226,221,211,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,225,2,0,0,7,31.183972894473033,0.3656387665198235,106535
+<https://www.wikidata.org/wiki/Q2003932>,SAS,Application,120,120,118,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,122,0,0,0,7,19.215406113392582,0.5081967213114756,50167
+<https://www.wikidata.org/wiki/Q181596>,SPSS,Application,389,381,379,4,1,1,1,2,3,0,0,1,2,0,0,0,0,0,0,1,0,390,5,0,0,6,117.45204112019458,0.8506329113924072,163275
+<https://www.wikidata.org/wiki/Q513297>,ArcGIS,Application,8,8,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,7,10.666320028738422,2.2222222222222228,7514
+<https://www.wikidata.org/wiki/Q1659584>,ImageJ,Application,14,14,13,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,0,18,2,0,0,5,30.583751363196324,3.5555555555555505,5201
+<https://www.wikidata.org/wiki/Q1355082>,Prism,Application,41,37,31,2,0,0,0,2,5,2,2,2,1,0,0,0,0,1,0,1,0,48,1,0,0,5,70.89229286580328,2.687500000000002,78999
+<http://bio.informatics.iupui.edu/proteolens>,ProteoLens,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,1.5686274509803921,4,0
+<https://www.wikidata.org/wiki/Q1504505>,Java JRE,Application,0,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,9,6.170929241261722,5,0
+<https://www.wikidata.org/wiki/Q193321>,Java Virtual Machine,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,1.5686274509803921,4,0
+<https://www.wikidata.org/wiki/Q106381184>,RevMan,Application,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1.0356902629653784,1.9999999999999998,0
+<https://www.wikidata.org/wiki/Q41566485>,SPM,Application,24,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,0,0,2,24.073779936596797,2.7499999999999987,20697
+<https://www.wikidata.org/wiki/Q7512231>,SigmaStat,Application,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,10,11.234467740165561,6.666666666666664,0
+<https://www.wikidata.org/wiki/Q1788435>,Statistica,Application,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,5,5.611154706541799,1.4000000000000001,6328
+<http://www.adept.net.au/software/mediacy/ImagePro/scopePro.shtml>,Scope-Pro,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,2.0338204847156254,7,0
+<https://www.mediacy.com/imageproplus>,Image-Pro Plus,Application,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,10,8.423841847209422,6.333333333333331,0
+<https://www.statistix.com/>,Satistix,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,2.0338204847156254,7,0
+<https://www.wikidata.org/wiki/Q129793>,Photoshop,Application,4,3,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,5,13.707143200898873,5.000000000000002,6314
+<https://www.wikidata.org/wiki/Q4049465>,SigmaPlot,Application,7,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,10,11.615420121117943,2.8571428571428563,0
+<https://cran.r-project.org/package=Amelia>,AmeliaView,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0.1526610644257703,2,0
+<https://www.statmodel.com/>,Mplus,Application,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,3,1.0243357901907209,1,0
+<http://fcsb.njau.edu.cn/microsyn>,MicroSyn,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0.25980392156862747,2,0
+<https://www.chem.gla.ac.uk/~louis/software/ortep>,ORTEP,Application,1,1,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,17,10.009803921568627,6,5232.5
+<https://www.platonsoft.nl/platon>,PLATON,Application,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,17,2.0098039215686274,4,0
+<https://www.rigaku.com/downloads/software/crystalclear>,CrystalClear,Application,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,17,2.0098039215686274,4,0
+<https://www.wikidata.org/wiki/Q51715613>,SHELXTL,Application,1,1,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,17,10.009803921568627,6,5785.5
+<https://www.wikidata.org/wiki/Q2601695>,Epi Info,Application,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,7,0.4141310672302254,1.5,0
+<https://www.wikidata.org/wiki/Q18215965>,Psychtoolbox,PlugIn,11,12,12,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,2,9.616107945654871,2.3333333333333335,1939
+<https://www.wikidata.org/wiki/Q5652128>,Haploview,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,5.442286567546578,5.5,0
+<https://www.wikidata.org/wiki/Q80689>,Access,Application,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,6,1.0031237642010467,2,0
+<https://kimura.univ-montp2.fr/%7Erousset/Genepop.htm>,GENEPOP,Application,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,4,40.30561619954931,16.5,7870
+<https://www.ibm.com/products/structural-equation-modeling-sem>,AMOS,Application,8,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,6,0.024993794986348968,0.875,0
+<https://www.luminexcorp.com/luminex-100200>,Luminex 100 â„¢ IS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0.012335567138247704,2,0
+<https://sourceforge.net/projects/ihcprofiler>,IHC profiler,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,0.065359477124183,2,0
+<http://www4a.biotec.or.th/GI/tools/metasel>,MetaSel,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0.25980392156862747,2,0
+<http://www.iop.kcl.ac.uk/IoP/Departments/PsychMed/GEpiBSt/software.stm>,GENECOUNTING,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,4.762335567138248,8,0
+<https://agenabio.com/products/massarray-system>,MassARRAY Assay Design,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,4.762335567138248,8,0
+<https://dceg.cancer.gov/tools/design/pga>,PGA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,4.762335567138248,8,0
+<https://gaow.github.io/genetic-analysis-software/1/2ld>,2LD,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,4.762335567138248,8,0
+<https://gaow.github.io/genetic-analysis-software/c/clump>,CLUMP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,4.762335567138248,8,0
+<http://www.die.upm.es/im/archives/DCEurLAB>,DCE@urLAB,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2.0098039215686274,3,0
+<https://www.ittvis.com/idl>,IDL,ProgrammingEnvironment,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,2.0098039215686274,3,0
+<https://www.ittvis.com/idlvm>,IDL Virtual Machine,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2.0098039215686274,3,0
+<https://www.wikidata.org/wiki/Q3376999>,LISREL,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0.012335567138247704,2,0
+<https://www.microsoft.com/download/details.aspx?id=21>,NET,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1.3762450389585115,7,0
+<https://www.wikidata.org/wiki/Q134067>,Visual Studio,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1.3762450389585115,7,0
+<http://data.gesis.org/somesci/HGF_01>,HGF,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.1457389284827855,6,0
+<https://github.com/translationalneuromodeling/tapas>,TAPAS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.1457389284827855,6,0
+<https://cran.r-project.org/package=h2o>,H2O R interface,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.0205566097406704,4,0
+<https://cran.r-project.org/package=pROC>,pROC,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.0205566097406704,4,0
+<https://github.com/h2oai/h2o-3/tree/master/h2o-r/ensemble>,h2oEnsemble,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2.0205566097406704,4,0
+<http://fim.uni-muenster.de/>,FIMTrack,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0.05328218243819266,2,0
+<https://github.com/MathCancer/PhysiCell>,PhysiCell,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,1.6199488491048593,5,0
+<https://www.wikidata.org/wiki/Q595758>,MinGW-w64,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1.6199488491048593,5,0
+<http://data.gesis.org/somesci/IMAGELAB_01>,Imagelab,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0.012335567138247704,2,0
+<https://www.nitrc.org/projects/wfu_pickatlas>,Pickatlas,Application,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,7.074802056210486,4.200000000000001,0
+<https://www.fz-juelich.de/inm/inm-1/DE/Forschung/_docs/SPMAnatomyToolbox/SPMAnatomyToolbox_node.html>,SPM anatomy toolbox,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2.6794832957949275,5,0
+<https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa>,Ingenuity Pathway Analysis,Application,6,5,4,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,11,28.605508755134426,8.000000000000004,11
+<http://data.gesis.org/somesci/DATACAM_01>,Datacam,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.06050266006237387,3,0
+<https://www.neurobs.com/menu_presentation/menu_features/features_overview>,Presentation,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,3.5820149413645486,4.666666666666666,0
+<http://www.optflux.org/>,Optflux,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,3.60230179028133,6,0
+<http://www.optflux.org/cbfa>,CBFA,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,3.60230179028133,6,0
+<https://www.wikidata.org/wiki/Q741303>,JDK,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,3.60230179028133,6,0
+<https://www.wikidata.org/wiki/Q838189>,GLPK,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,3.60230179028133,6,0
+<https://www.partek.com/partek-genomics-suite>,Genomics Suite,Application,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,0.2309782608695652,3,0
+<https://cran.r-project.org/package=nlme>,nlme,PlugIn,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0.5696885054138237,3.0000000000000004,0
+<https://www.wikidata.org/wiki/Q24451405>,R Studio,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,7,1.4461761964692148,2.6666666666666665,0
+<http://brainmap.co.uk/>,ICC toolbox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.129413267783723,8,0
+<https://www.medizin.uni-tuebingen.de/das-klinikum/einrichtungen/kliniken/kinderklinik/kinderheilkunde-iii/forschung-iii/software>,LI-toolbox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.129413267783723,8,0
+<https://www.wikidata.org/wiki/Q4654344>,AsReml,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<http://data.gesis.org/somesci/EYELINK_API_01>,EyeLink API,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://github.com/pdollar/toolbox/blob/master/videos/behaviorAnnotator.m>,Behavior Annotator,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://sites.google.com/site/neuromapsoftware>,NeuroMap,Application,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,2,0.008403361344537815,1,0
+<https://mathworks.com/products/curvefitting.html>,Curve Fitting Toolbox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.2084033613445378,2,0
+<http://www.macvide.com/Macvide_FlashVideo_Converter>,MacVide,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.008403361344538,3,0
+<https://www.wikidata.org/wiki/Q165658>,Flash,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.008403361344538,3,0
+<https://www.wikidata.org/wiki/Q234657>,Actionscript,ProgrammingEnvironment,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.008403361344538,3,0
+<https://www.wikidata.org/wiki/Q41793788>,BrainVoyager,Application,4,5,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,1.8526717015920293,1.2,0
+<https://doi.org/10.1086/590395>,REGRESSIONv2.m,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://www.wikidata.org/wiki/Q378530>,Praat,Application,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2,5.016806722689076,1.75,4756
+<https://bmsr.usc.edu/software/adapt>,ADAPT,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://www.kubios.com/>,Kubios HRV,Application,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,16,1.5292366946778713,2,0
+<http://www.vislab.ucl.ac.uk/cogent_2000.php>,Cogent 2000,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://www.wikidata.org/wiki/Q3737246>,FSL,Application,7,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,6,22.11534029325777,5.142857142857144,9349
+<https://github.com/sccn/eeglab>,EEGLAB,Application,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,10,4.55063784457096,1.8333333333333335,1588
+<https://www.wikidata.org/wiki/Q197520>,NumPy,PlugIn,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,8,6.931944105342612,6.5,0
+<https://cran.r-project.org/package=tnet>,tnet,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<http://www.brainvoyager.com/products/brainvoyagerqx.html>,BVQX,PlugIn,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.2084033613445378,2,0
+<https://cran.r-project.org/package=lme4>,lme4,PlugIn,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,8.36252522514382,4.5,780
+<https://sites.google.com/site/bctnet>,Brain Connectivity Toolbox,PlugIn,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,2.2859627722056564,2.333333333333333,0
+<https://www.tedia.eu/products/sw-scopewin.html>,ScopeWin,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m>,get_totals,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<http://doi.org/10.1371/journal.pone.0091620>,neurofeedback toolbox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0.05007002801120448,2,0
+<https://www.fil.ion.ucl.ac.uk/spm/toolbox/fieldmap>,Fieldmap,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.05007002801120448,2,0
+<https://www.wikidata.org/wiki/Q364>,GitHub,Application,1,13,13,12,12,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,0,9,22.40731592885293,2.692307692307693,12933.5
+<http://www.cgbayesnets.com/>,CGBayesNets,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0.008403361344537815,1,0
+<https://cran.r-project.org/package=mclust>,adjustedRandIndex,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.6024893828499143,5,0
+<https://cran.r-project.org/src/contrib/Archive/mixer>,Mixer,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.6024893828499143,5,0
+<https://www.wikidata.org/wiki/Q847296>,Visual C++,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.010935006914158068,2,0
+<https://mathworks.com/products/statistics.html>,statistics toolbox,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.5168067226890757,1.5,0
+<https://www.wikidata.org/wiki/Q576474>,GoldWave,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1.085935006914158,3,599
+<http://www.vislab.ucl.ac.uk/cogent.php>,Cogent,Application,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dClustSim.html>,3dClustsim,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDeconvolve.html>,3dDeconvolve,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDetrend.html>,3dDetrend,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dFWHMx.html>,3dFWHMx,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dmaskave.html>,3dmaskave,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dttest++.html>,3dttest+ +,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/waver.html>,waver,PlugIn,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://github.com/ANTsX/ANTs>,Advanced Normalization Tools,Application,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8.210935006914157,11,0
+<https://www.wikidata.org/wiki/Q4751099>,AFNI,Application,4,5,5,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,2,26.47944919934868,7.800000000000004,14059
+<http://neurocics.udd.cl/LANtoolbox.html>,LAN toolbox,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3.019156049516581,5,0
+<http://openmeeg.github.io/>,openMEEG,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.019156049516581,5,0
+<https://compumedicsneuroscan.com/tag/scan>,Scan,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.019156049516581,5,0
+<https://www.wikidata.org/wiki/Q64816680>,BrainStorm,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.019156049516581,5,0
+<http://prtools.tudelft.nl/>,PRTools,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<http://www.ledalab.de/>,Ledalab,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.091736694677871,3,0
+<https://www.mindmedia.com/downloads>,Biotrace,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.091736694677871,3,0
+<http://wwwold.fi.isc.cnr.it/users/thomas.kreuz/sourcecode.html>,SPIKE-dist,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://www.wikidata.org/wiki/Q197492>,SciPy,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,8,1.0986107720092781,3.5,0
+<http://www.thomaskoenig.ch/index.php/software/mapwin>,MapWin,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,2.192094427204013,6,0
+<https://mitsar-eeg.com/eeg-system-solutions/wineeg-research-software>,WinEEG,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,2.192094427204013,6,0
+<https://www.mindmedia.com/losungen/qeeg/sloreta>,sLORETA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,2.192094427204013,6,0
+<http://www.babyvoc.org/IVICT.html>,IVICT,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.2584033613445378,3,0
+<https://www.fon.hum.uva.nl/praat/manual/Articulatory_synthesis.html>,articulatory synthesizer,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.2584033613445378,3,0
+<https://pypi.org/project/psamm>,PSAMM,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0.008403361344537815,1,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dFDR.html>,3dFDR,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.2493965453756966,6,0
+<https://perso.unifr.ch/roberto.caldara/index.php?page=3>,iMap,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2.2493965453756966,6,0
+<https://www.sr-research.com/data-viewer>,EyeLink Data Viewer,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2.2493965453756966,6,0
+<http://www.neuroexplorer.com/>,NeuroExplorer,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,5,2.029236694677871,4,0
+<https://www.tdt.com/component/opensorter>,Open sorter,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.029236694677871,4,0
+<https://www.tdt.com/docs/synapse/gizmos/pca-spike-sorting>,principal component analysis spike sorter,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.029236694677871,4,0
+<http://www.arringtonresearch.com/viewpoint.html>,ViewPoint,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.4762605042016808,6,0
+<https://www.nitrc.org/projects/isc-toolbox>,ISC-toolbox,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.4762605042016808,6,0
+<https://www.wikidata.org/wiki/Q746261>,LabVIEW,ProgrammingEnvironment,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,0.08532643826761473,2,0
+<https://www.nitrc.org/projects/nirs_spm>,NIRS_SPM,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://github.com/andrewssobral/tensor_toolbox>,Tensor Toolbox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://www.gabamrs.com/>,Gannet,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.008403361344537815,1,0
+<https://www.sr-research.com/experiment-builder>,Experiment Builder,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.019156049516580828,2,0
+<http://ctrax.sourceforge.net/>,Ctrax,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1.0168067226890756,1.5,0
+<http://ctrax.sourceforge.net/fixerrors.html>,FixErrors,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.5084033613445378,2,0
+<http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html>,voicebox,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.010935006914158068,2,0
+<http://psychtoolbox.org/docs/EyelinkToolbox>,Eyelink Toolbox,PlugIn,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.091736694677871,3,0
+<https://www.rogue-research.com/tms/brainsight-tms>,Brainsight,Application,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.091736694677871,3,0
+<https://github.com/rrueedi/metabomatching>,Metabomatching,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0.008403361344537815,1,0
+<http://www.techilatechnologies.com/>,Techila Technologies,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.0084033613445378,2,0
+<https://www.wikidata.org/wiki/Q17054505>,Google Cloud,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.0084033613445378,2,0
+<https://github.com/CellProfiler>,CellProfiler,Application,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,1.2968648998060763,4,0
+<https://github.com/ijpb/MorphoLibJ>,MorphoLibJ,PlugIn,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,1.2968648998060763,4,0
+<https://www.wikidata.org/wiki/Q5425748>,Fiji,PlugIn,1,3,2,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,5,13.649642677583854,5.5,0
+<https://www.wikidata.org/wiki/Q735748>,Pixelmator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.7940860215053763,4,0
+<https://www.biodiscovery.com/imagene>,ImaGene,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,13,1.5,2,0
+<http://www2.umdnj.edu/lilabweb/publications/AccuTyping.html>,AccuTyping,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,13,1.5,2,0
+<https://www.moleculardevices.com/products/additional-products/genepix-microarray-systems-scanners>,Genepix Pro,Application,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,13,15.56491935483871,10.5,3172
+<https://github.com/kingsfordgroup/sailfish>,Sailfish,Application,0,2,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,13,14.56491935483871,10,1588
+<https://www.wikidata.org/wiki/Q5462055>,FlowJo,Application,4,4,3,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,13,16.07027649769585,5.000000000000002,4752
+<http://code.google.com/p/rna-star>,STAR,Application,1,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,13,20.15699156736825,17,0
+<https://bioconductor.org/packages/edgeR>,edgeR,PlugIn,1,3,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,12,45.53441092220696,21.33333333333332,0
+<http://bonsai.hgc.jp/~mdehoon/software/cluster>,Cluster,Application,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,13,16.950535430988893,13.5,0
+<http://jtreeview.sourceforge.net/>,TreeView,Application,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,13,16.950535430988893,13.5,0
+<http://rseqc.sourceforge.net/>,RSeQC,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<http://subread.sourceforge.net/>,Subread,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<http://support.illumina.com/sequencing/sequencing_software/casava.html>,CASAVA,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://bioconductor.org/packages/DESeq2>,DESeq2,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://cibersort.stanford.edu/>,CIBERSORT,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,13,13.06491935483871,19,0
+<https://cran.r-project.org/package=Rtsne>,Rtsne,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://jp.support.illumina.com/sequencing/sequencing_software/real-time_analysis_rta.html>,RTA,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://kim.bio.upenn.edu/software/pivot.shtml>,PIVOT,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://toppgene.cchmc.org/enrichment.jsp>,ToppFun,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://www.adaptivebiotech.com/immunoseq>,immunoSEQ Analyzer,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://www.agilent.com/en/product/automated-electrophoresis/bioanalyzer-systems>,Bioanalyzer,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,13.06491935483871,19,0
+<https://moleculardevices.com/products/axon-patch-clamp-system/acquisition-and-analysis-software/pclamp-software-suite>,pClamp,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,4.033333333333333,3,6
+<http://www.ensembl.org/>,Ensembl,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,5,5.267676767676768,3,4744
+<https://www.wikidata.org/wiki/Q5281973>,DS modeling,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.8333333333333333,2,0
+<https://www.wikidata.org/wiki/Q11239942>,Primer,Application,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,6,10.786208390237803,3.8333333333333317,3172
+<https://www.wikidata.org/wiki/Q7265483>,Q-LAB,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.601010101010101,4,0
+<http://bejerano.stanford.edu/great>,GREAT,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,1.8333333333333333,3,0
+<http://ctg.cncr.nl/software/magma>,MAGMA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,5,1.8333333333333333,3,0
+<https://www.wikidata.org/wiki/Q28444600>,BioMart,Application,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,4.845454545454546,5,0
+<http://www.viewpoint.fr/en/p/software/videotrack>,VideoTrack,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.2,4,0
+<https://www.fei.com/software/visilog>,Visilog,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.2,4,0
+<https://www.wikidata.org/wiki/Q13574543>,Igor Pro,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,2.7,2,0
+<https://cran.r-project.org/package=vegan>,Vegan,PlugIn,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,16,7.303093834542603,7.666666666666663,0
+<https://www.wikidata.org/wiki/Q67141781>,FastQC,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,14,14.758738879196208,12.5,0
+<https://www.wikidata.org/wiki/Q7388648>,samtools,Application,4,5,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,12,50.8043669070823,14.59999999999998,943
+<http://mirdb.org/>,miRDB,Application,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,13.094603858099163,12,0
+<https://github.com/rajewsky-lab/mirdeep2>,Mirdeep2,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.092072212529542,15,0
+<https://github.com/usadellab/Trimmomatic>,Trimmomatic,Application,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,7.592072212529542,8,1588
+<https://www.bioconductor.org/packages/edge>,edge,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.092072212529542,15,0
+<https://www.ncbi.nlm.nih.gov/tools/primer-blast>,Primer-BLAST,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.092072212529542,15,0
+<https://www.wikidata.org/wiki/Q18387989>,TargetScan,Application,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,13.094603858099163,12,0
+<https://www.wikidata.org/wiki/Q1161680>,JMP,Application,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,1,0.4129015895116478,0.6,0
+<http://genetics.bwh.harvard.edu/pph2>,PolyPhen,Application,2,4,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,12,47.53497707489643,15.5,14
+<https://www.wikidata.org/wiki/Q18359288>,PLINK,Application,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,11,51.280244255540296,9.571428571428573,24711
+<https://github.com/arq5x/bedtools2>,BEDTools,Application,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,11,9.83694316436252,8,0
+<http://csg.sph.umich.edu/abecasis/metal>,METAL,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,15,17.79899861945595,11,0
+<https://cran.r-project.org/package=glmnet>,glmnet,PlugIn,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2.192577329354365,3.5,0
+<https://doi.org/10.1093/bioinformatics/bts015>,gpu-lasso,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1.5774193548387097,4,0
+<https://www.wikidata.org/wiki/Q681360>,OpenCL,ProgrammingEnvironment,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.5774193548387097,4,0
+<http://calib.org/calib>,CALIB,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,5.010752688172043,3,3172
+<https://amaral.northwestern.edu/resources/software/netcarto>,netcarto,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://cran.r-project.org/package=bipartite>,bipartite,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://www.guimaraes.bio.br/soft.html>,Aninhado,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://www.wikidata.org/wiki/Q96075529>,Pajek,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://bioconductor.org/>,Bioconductor,PlugIn,1,5,2,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,1,9.795293495505025,3.800000000000001,0
+<https://bioconductor.org/packages/FunciSNP>,FunciSNP,PlugIn,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.21075268817204298,2,0
+<http://doi.org/10.1186/gb-2006-7-4-r29>,genemapper,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,30.887366653916445,18.33333333333333,11
+<https://www.nucleics.com/DNA_sequencing_support/Trace_viewer_reviews/BioEdit>,BioEdit,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,20.879951000408333,12.333333333333337,0
+<http://www.aqua.stir.ac.uk/rep-gen/Downloads.html>,FAP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.094086021505376,5,0
+<https://cran.r-project.org/package=car>,car,PlugIn,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2.604838709677419,3,0
+<https://cran.r-project.org/package=MCMCglmm>,MCMCglmm,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.094086021505376,5,0
+<https://www.wikidata.org/wiki/Q866737>,ClustalW,Application,3,5,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,4,20.72171648130425,9,0
+<http://biocomputer.bio.cuhk.edu.hk/T3DB/T3_MM.php>,T3_MM,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.010752688172043012,1,0
+<https://www.wikidata.org/wiki/Q4784993>,ArcMap,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.12186379928315412,2,0
+<https://www.wikidata.org/wiki/Q18411871>,G*Power,Application,3,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,5.031586021505376,2.333333333333333,4752
+<https://cran.r-project.org/package=sensitivity>,sensitivity,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.010752688172043012,1,0
+<https://www.wikidata.org/wiki/Q1235617>,Photofiltre,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.8718637992831542,4,0
+<https://bioconductor.org/packages/illuminaio>,illuminaio,PlugIn,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0.21075268817204298,2,0
+<https://cran.r-project.org/package=rjags>,rjags,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.510752688172043,2,0
+<https://www.wikidata.org/wiki/Q6316598>,JAGS,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1.021505376344086,1.5,0
+<https://bioconductor.org/packages/DriverNet>,DriverNet,PlugIn,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.21075268817204298,2,0
+<https://cran.r-project.org/package=aLFQ>,aLFQ,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.510752688172043,2,0
+<https://www.wikidata.org/wiki/Q2086703>,CRAN,Application,0,2,1,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2.0984284532671627,2.5,0
+<https://cran.r-project.org/package=dcGOR>,dcGOR,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.5876757650951199,3,0
+<https://www.wikidata.org/wiki/Q64189>,MapInfo Professional,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.3440860215053763,2,0
+<https://cran.r-project.org/package=dismo>,dismo,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.010752688172043,2,0
+<https://github.com/Insubric/fire-calculator>,Fire Weather Indices Calculator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.010752688172043,2,0
+<https://remoteproctor.com/>,Remote Proctor Now,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.3440860215053763,3,0
+<https://www.proctoru.com/>,ProctorU,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.3440860215053763,3,0
+<https://www.wikidata.org/wiki/Q326489>,ggplot2,PlugIn,2,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,5.298924731182796,3.666666666666667,0
+<https://cran.r-project.org/package=mgcv>,mgcv,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,6.121505376344086,5.5,0
+<https://cran.r-project.org/package=raster>,raster,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.510752688172043,5,0
+<https://cran.r-project.org/package=rgdal>,rgdal,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.510752688172043,5,0
+<https://www.wikidata.org/wiki/Q1797907>,Land Cover Classification System,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.510752688172043,5,0
+<https://www.wikidata.org/wiki/Q580605>,GDAL,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.510752688172043,5,0
+<https://cran.r-project.org/package=rstan>,Rstan,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.510752688172043,3,0
+<https://github.com/rmcelreath/rethinking/blob/master/R/map2stan.r>,map2stan,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.510752688172043,3,0
+<https://www.wikidata.org/wiki/Q17085079>,Stan,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2.17741935483871,2,0
+<https://www.wikidata.org/wiki/Q28974859>,GATK,Application,2,4,2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,1,0,0,11,55.20027521761393,18,14
+<http://www.phosphortholog.com/>,PhosphOrtholog,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,6.882547559966914,10,0
+<https://www.wikidata.org/wiki/Q1575>,Internet Explorer,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,6.882547559966914,10,0
+<https://www.wikidata.org/wiki/Q230036>,jQuery,ProgrammingEnvironment,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,6.882547559966914,10,0
+<https://www.wikidata.org/wiki/Q35773>,Safari,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,6.882547559966914,10,0
+<https://www.wikidata.org/wiki/Q698>,Firefox,Application,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,8,8.385079205536535,6,0
+<https://www.wikidata.org/wiki/Q777>,Chrome,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,6.882547559966914,10,0
+<https://www.wikidata.org/wiki/Q842014>,Django,ProgrammingEnvironment,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,6.882547559966914,10,0
+<https://www.wikidata.org/wiki/Q8811>,HTML,ProgrammingEnvironment,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,6.882547559966914,10,0
+<http://www.rummlab.com.au/>,RUMM,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11,3.3202764976958523,6,0
+<https://cran.r-project.org/package=eRm>,eRM,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,3.3202764976958523,6,0
+<https://cran.r-project.org/package=ltm>,ltm,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11,3.3202764976958523,6,0
+<https://www.wikidata.org/wiki/Q5013404>,ConQuest,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11,3.3202764976958523,6,0
+<https://cran.r-project.org/package=epitools>,EpiTools,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.013284333741663264,2,0
+<https://www.gsea-msigdb.org/gsea/index.jsp>,GSEA,Application,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,14,17.885616076150185,7.9999999999999964,16328
+<http://www.singlecaseresearch.org/calculators/pabak-os>,PABAK-OS calculator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.01894940948351842,2,0
+<http://whitelab.biology.dal.ca/SOCPROG/social.htm>,SOCPROG,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.010752688172043,3,0
+<https://cran.r-project.org/package=boot>,boot,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.010752688172043,3,0
+<https://tlocoh.r-forge.r-project.org/>,T-LoCoH,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.010752688172043,3,0
+<https://cran.r-project.org/package=survival>,survival,PlugIn,1,3,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,12,28.565591397849463,12.000000000000004,237
+<https://cran.r-project.org/package=clam>,clam,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.510752688172043,4,0
+<https://cran.r-project.org/package=rioja>,rioja,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.510752688172043,4,0
+<https://eprint.ncl.ac.uk/6053>,C2,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.510752688172043,4,0
+<https://www.illumina.com/techniques/microarrays/array-data-analysis-experimental-design/genomestudio.html>,GenomeStudio,Application,1,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,12,24.922873900293254,15.5,0
+<https://github.com/bwallace/OpenMeta-analyst->,Open Meta-Analyst,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.010752688172043012,1,0
+<https://bioconductor.org/packages/MSstats>,MSstats,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4.056207233626589,6,0
+<https://cran.r-project.org/package=Epi>,Epi,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4.056207233626589,6,0
+<https://sciex.com/products/software/analyst-software>,Analyst,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4.056207233626589,6,0
+<https://www.bio-rad.com/en-us/product/bio-plex-manager-software-standard-edition>,Bioplex Manager,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4.056207233626589,6,0
+<https://www.wikidata.org/wiki/Q48989793>,Skyline,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4.056207233626589,6,0
+<https://cran.r-project.org/package=rpart>,rpart,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.015157974515655346,2,0
+<https://cran.r-project.org/package=sourceR>,sourceR,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.010752688172043012,1,0
+<https://cran.r-project.org/package=epiR>,EpiR,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.6107526881720429,6,0
+<https://www.wikidata.org/wiki/Q1329181>,QGIS,Application,3,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,3.7988490403751305,3.666666666666667,0
+<http://jvsmicroscope.uta.fi/immunoratio>,Immunoratio,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,9,3.1251317731393633,6,0
+<http://www.figurej.org/>,FigureJ,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,9,3.1251317731393633,6,0
+<https://cran.r-project.org/package=ROCR>,ROCR,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,9,3.1251317731393633,6,0
+<https://github.com/gilbertbigras/Ki67>,Ki67 Vv,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,9,3.1251317731393633,6,0
+<https://cran.r-project.org/package=lattice>,lattice,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.844086021505376,5,0
+<https://cran.r-project.org/package=mice>,mice,PlugIn,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,4.354838709677419,3.5,0
+<https://cran.r-project.org/package=mitml>,mitml,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.844086021505376,5,0
+<https://cran.r-project.org/package=survC1>,survC1,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.844086021505376,5,0
+<https://cran.r-project.org/package=fmsb>,fmsb,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.010752688172043012,1,0
+<http://familygenomics.systemsbiology.net/grab>,GRAB,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,2.2492142266335815,5,0
+<http://vcftools.sourceforge.net/>,vcftools,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,2.2492142266335815,5,0
+<https://bitbucket.org/tguenther/read>,READ,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,2.2492142266335815,5,0
+<https://bioconductor.org/packages/Rhtslib>,Rhtslib,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.2774193548387096,5,0
+<https://bioconductor.org/packages/scPipe>,scPipe,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2.2774193548387096,5,0
+<https://cran.r-project.org/package=Rcpp>,Rcpp,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.2774193548387096,5,0
+<https://atgu.mgh.harvard.edu/plinkseq>,PLINK/SEQ,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://bioconductor.org/packages/GeneOverlap>,GeneOverlap,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://doi.org/10.25386/genetics.10266425>,CNVmap,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://github.com/broadinstitute/picard>,Picard,Application,1,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,12,34.64769585253456,22.5,0
+<https://github.com/marcelm/cutadapt>,cutadapt,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://github.com/najoshi/sickle>,sickle,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://github.com/samtools/bcftools>,BCFtools,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://statgen.bitbucket.io/xhmm>,XHMM,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://www.wikidata.org/wiki/Q85738947>,ANNOVAR,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,9.270276497695853,15,0
+<https://www.wikidata.org/wiki/Q101554882>,Soscisurvey,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.510752688172043,2,0
+<https://github.com/guigolab/ggsashimi>,ggsashimi,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0.3440860215053763,2,0
+<https://cran.r-project.org/package=bnlearn>,bnlearn,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.010752688172043012,1,0
+<https://cran.r-project.org/package=quantregForest>,quantregForest,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.010752688172043012,1,0
+<https://cran.r-project.org/package=psych>,psych,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://cran.r-project.org/package=tidyr>,tidyr,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://www.pharmacompass.com/pdf/party/content/omnicomm-systems-inc-party-content-1496916964.pdf>,Promasys,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<https://www.wikidata.org/wiki/Q104854189>,dplyr,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3.010752688172043,4,0
+<http://www.dissect.ed.ac.uk/>,DISSECT,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<http://www.haplotype-reference-consortium.org/>,HRC,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://alkesgroup.broadinstitute.org/BOLT-LMM>,BOLT-LMM,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://cran.r-project.org/package=ordinal>,ordinal,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://cran.r-project.org/package=rms>,rms,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://cran.r-project.org/src/contrib/Archive/gtx>,GTX,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://github.com/DReichLab/EIG>,SMARTPCA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://github.com/hmgu-itg/metacarpa>,METACARPA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://hydra.usc.edu/gxe>,Quanto,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html>,SHAPEITv,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html>,SNPTEST,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://mathgen.stats.ox.ac.uk/impute/impute_v2.html>,IMPUTE,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://people.virginia.edu/~wc9c/KING>,KING,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://www.illumina.com/Documents/products/technotes/technote_gencall_data_analysis_software.pdf>,GenCall,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,13.653609831029186,16,0
+<https://enketo.org/>,Enketo,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.3440860215053763,3,0
+<https://www.wikidata.org/wiki/Q56291130>,Open Data Kit,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1.3440860215053763,3,0
+<https://genome.unc.edu/las>,LAS,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,2.885616076150185,8,0
+<https://jexpress.bioinfo.no/site>,J-Express,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,2.885616076150185,8,0
+<http://bioconductor.org/packages/MutationalPatterns>,MutationalPatterns,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<http://mutationassessor.org/>,MutationAssessor,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<http://varscan.sourceforge.net/>,VarScan,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<http://www.cbs.dtu.dk/services/MuPeXI>,MuPeXI,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<http://www.cbs.dtu.dk/services/NetMHCpan>,NetMHCpan,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<http://www.ifi.uio.no/bioinf/Projects/ASCAT>,ASCAT,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://bioconductor.org/packages/ChAMP>,ChAMP,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://bioconductor.org/packages/SomaticSignatures>,SomaticSignatures,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://bioconductor.org/packages/tximport>,tximport,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://cran.r-project.org/package=survminer>,survminer,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://github.com/brwnj/bcl2fastq>,bcl2fastq2,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://github.com/cit-bioinfo/consensusMIBC>,consensus MIBC,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://github.com/COMBINE-lab/Salmon>,Salmon,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://github.com/ding-lab/msisensor>,MSIsensor,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://github.com/FelixKrueger/TrimGalore>,Trim Galore!,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://github.com/genome/bam-readcount>,bam-readcount,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://software.broadinstitute.org/cancer/cga/mutect>,MuTect,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://software.broadinstitute.org/cancer/cga/polysolver>,Polysolver,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://visiopharm.com/>,Visiopharm,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://www.bioconductor.org/packages/RTN>,RTN,PlugIn,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://www.wikidata.org/wiki/Q30593150>,SnpEff,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://www.wikidata.org/wiki/Q7305527>,REDCap,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://xcell.ucsf.edu/>,xCell,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12,24.377419354838707,30,0
+<https://cran.r-project.org/package=OptimalCutpoints>,OptimalCutpoints,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.22287390029325513,3,0
+<http://www.mtifwb.com/>,RIU,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<https://ideas.repec.org/c/boc/bocode/s446201.html>,metareg,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.01889803996680074,2,0
+<https://ideas.repec.org/c/boc/bocode/s446602.html>,ICE,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,0.008810572687224669,1,0
+<http://data.gesis.org/somesci/CHART_01>,Chart,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.0044052863436124,2,0
+<https://www.wikidata.org/wiki/Q5025484>,Cambridge Neuropsychological Test Automated Battery,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.0044052863436124,2,0
+<http://www.gqinnovationcenter.com/services/bioinformatics/flexarray>,FlexArray,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,1.5044052863436121,4,0
+<https://www.bio-rad.com/en-de/product/myiq2-two-color-real-time-pcr-detection-system>,MyIQ,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,1.5044052863436121,4,0
+<https://www.wikidata.org/wiki/Q5382673>,EpiData,Application,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,7,1.0308811578251653,1.1428571428571428,0
+<https://training.cochrane.org/online-learning/core-software-cochrane-reviews/revman>,Review Manager,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,0.004405286343612334,0.5,0
+<https://sites.google.com/a/wolkon.com/gps-sample>,GPS Sample,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.0044052863436124,2,0
+<https://www.wikidata.org/wiki/Q21207>,Windows Mobile,OperatingSystem,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.0044052863436124,2,0
+<http://www.spatialecology.com/gme>,geo-spatial modeling environment,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,3.1155163974547238,5,0
+<http://www.umass.edu/landeco/research/fragstats/fragstats.html>,Fragstats,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,3.1155163974547238,5,0
+<https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/an-overview-of-the-spatial-statistics-toolbox.htm>,Spatial Statistics,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,3.1155163974547238,5,0
+<https://www.l3harrisgeospatial.com/Software-Technology/ENVI>,ENVI,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,3.1155163974547238,5,0
+<https://www.wikidata.org/wiki/Q6716702>,MLwiN,Application,6,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,7,2.025817866685925,1.3333333333333333,0
+<http://www.bristol.ac.uk/cmm/software/runmlwin>,runmlwin,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,0.342143906020558,2,0
+<http://www.mh-hannover.de/kliniken/radiologie/str_04.html>,CT-Expo,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<https://www.andrew.cmu.edu/user/bjones>,traj,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<http://www.bristol.ac.uk/cmm/software/realcom>,REALCOM-IMPUTE,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<https://EconPapers.repec.org/RePEc:boc:bocode:s457279>,ZSCORE06,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.1472624292007552,2,0
+<http://trackvis.org/>,TrackVis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.6472624292007552,4,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT>,FMRIBâ€™s Diffusion Toolbox,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,13.125984550960851,9,0
+<https://www.wikidata.org/wiki/Q115494>,Waikato Environment for Knowledge Analysis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.6472624292007552,4,0
+<https://ideas.repec.org/c/boc/bocode/s457354.html>,punafcc,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<http://intergrowth21.ndog.ox.ac.uk/>,Newborn Size Application,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<https://www.millisecond.com/>,Inquisit,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<https://www.wikidata.org/wiki/Q55641191>,NQuery Advisor,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.004405286343612334,1,0
+<http://sourceforge.net/projects/lamina>,LAMINA,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,9,1.1143790849673203,3,0
+<https://www.wikidata.org/wiki/Q1129895>,Java Advanced Imaging,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,1.1143790849673203,3,0
+<http://www.pristionchus.org/3CPrimerDesign>,3PD,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0.0588235294117647,1,0
+<https://www.wikidata.org/wiki/Q2005>,JavaScript,ProgrammingEnvironment,0,3,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,9,5.3099547511312215,3.3333333333333335,0
+<http://www.bionut.ki.se/users/pesv/podbat>,Podbat,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,9,0.0588235294117647,1,0
+<http://doi.org/10.1371/journal.pcbi.1002380>,DOGS,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,1.0588235294117647,2,0
+<https://www.wikidata.org/wiki/Q2383032>,Chemistry Development Kit,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,1.0588235294117647,2,0
+<http://www.broadinstitute.org/rna-seqc>,RNA-SeQC,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,0.0588235294117647,1,0
+<https://github.com/gburleigh/MatrixConverter>,MatrixConverter,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0.0588235294117647,1,0
+<https://github.com/PathVisio/PathVisioRPC>,PathVisioRPC,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,1.0588235294117647,2,0
+<https://www.wikidata.org/wiki/Q16975296>,PathVisio,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,9,1.0588235294117647,2,0
+<https://github.com/UcarLab/QuIN>,QuIN,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,2.469079939668175,5,0
+<https://www.wikidata.org/wiki/Q507430>,Tomcat,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,2.469079939668175,5,0
+<https://www.wikidata.org/wiki/Q850>,MySQL,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,2.469079939668175,5,0
+<https://github.com/Grice-Lab/AlignerBoost>,AlignerBoost,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,9,0.0588235294117647,1,0
+<https://www.york.ac.uk/computational-immunology/software/aspasia>,ASPASIA,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0.0588235294117647,1,0
+<https://github.com/mikessh/mageri>,MAGERI,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0.0588235294117647,1,0
+<https://github.com/phoenixding/idrem>,iDREM,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0.46907993966817496,3,0
+<https://www.wikidata.org/wiki/Q7095785>,OpenEpi,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.00819672131147541,1,0
+<https://www.wikidata.org/wiki/Q1258962>,MaxQDA,Application,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,7,0.1081967213114754,0.3333333333333333,0
+<https://www.meta-analysis.com/>,Comprehensive Meta-Analysis,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,7,0.00819672131147541,0.5,0
+<https://www.wikidata.org/wiki/Q7394951>,SUDAAN,Application,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,7,0.03278688524590164,1,0
+<http://data.gesis.org/somesci/EASY_RA1_EASY_RANDOMIZER_01>,EASY RA1 Easy Randomizer,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.0226894749346638,3,0
+<https://www.wikidata.org/wiki/Q11266>,PowerPoint,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.0226894749346638,3,0
+<http://www.actigraphy.respironics.com/solutions/actiware>,Actiware,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.00819672131147541,1,0
+<https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp>,CCS,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.17486338797814208,2,0
+<http://www.fieldgenetics.com/pages/aboutCervus_Overview.jsp>,Cervus,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0.5081967213114754,2,0
+<https://www.zsl.org/science/software/colony>,COLONY,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,4,7.258196721311475,5,0
+<https://www.va.gov/vdl/documents/Clinical/Comp_Patient_Recrd_Sys_(CPRS)/cprsguium.pdf>,VA Computerized Patient Record System,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.00819672131147541,1,0
+<https://www.questionpro.de/>,Questionpro,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.010728366881095663,2,0
+<https://www.wikidata.org/wiki/Q5535060>,geographic information system,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.00819672131147541,1,0
+<https://cran.r-project.org/package=dlnm>,dlnm,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.34153005464480873,2,0
+<http://www.accelrys.com/dstudio/ds_viewer>,DS ViewerPro,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,20,2,2,0
+<http://consurf-hssp.tau.ac.il/>,ConSurf-HSSP,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,20,2,2,0
+<http://www.bioinformatics.sussex.ac.uk/SHARP2>,SHARP2,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,20,2,2,0
+<http://data.gesis.org/somesci/CELLQUEST_01>,CellQuest,Application,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,4.794198312236286,4.5,0
+<https://www.wikidata.org/wiki/Q11255>,Office,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,5,2.4001765731058518,3,319.5
+<http://csg.sph.umich.edu/abecasis/mach>,MACH,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,15,4.788245931283906,4,0
+<https://doi.org/10.1093/bioinformatics/btp497>,GRIMP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,3.145388788426763,6,0
+<https://www.illumina.com/Documents/products/datasheets/datasheet_beadstudio.pdf>,BeadStudio,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,3.145388788426763,6,0
+<https://www.nitrc.org/projects/mach2qtl>,Mach2QTL,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,3.145388788426763,6,0
+<https://www.fluxus-engineering.com/sharenet.htm>,Network,Application,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,4,33.22914561131402,14.75,0
+<https://www.wikidata.org/wiki/Q4792191>,Arlequin,Application,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,4,33.22914561131402,14.75,0
+<http://marsbar.sourceforge.net/>,Marsbar,PlugIn,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,1.5608649789029534,3,0
+<https://www.med-associates.com/med-pc-v/>,Med-PC,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.8711910658594753,5,0
+<https://www.wikidata.org/wiki/Q215016>,Illustrator,Application,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,5,6.342024399192809,6.5,0
+<http://data.gesis.org/somesci/DIGIPRO_01>,Digipro,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.0025316455696203,2,0
+<https://www.wikidata.org/wiki/Q25931876>,Scion image,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.0025316455696203,2,0
+<http://www.talairach.org/daemon.html>,Talairach Daemon,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0.7775316455696202,2.5,0
+<http://www.atgc-montpellier.fr/phyml>,PhyML,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,20.847986191024166,17.5,0
+<https://www.labtools.us/sequence-scanner>,Sequence Scanner,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1.8358649789029535,5,0
+<https://www.wikidata.org/wiki/Q3505312>,Surfer,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1.8358649789029535,5,0
+<https://www.wikidata.org/wiki/Q17042611>,NCSS,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,1.0025316455696203,1,1588
+<https://www.wikidata.org/wiki/Q3628244>,ATLAS.ti,Application,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,6,0.1691983122362869,0.6666666666666666,0
+<https://www.jwatcher.ucla.edu/>,JWatcher,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.0025316455696203,2,0
+<https://www.motic.com/As_microscope_software_a/product_236.html>,Digilab,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.0025316455696203,2,0
+<http://olisweb.com/olisweb_old/Olis-Software.html>,GlobalWorks,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.4146528576908315,9,0
+<http://smart.emblheidelberg.de/>,SMART,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.4146528576908315,9,0
+<http://www.cbs.dtu.dk/services/SignalP>,SignalP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.4146528576908315,9,0
+<https://www.wikidata.org/wiki/Q17029600>,I-TASSER,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4.4146528576908315,9,0
+<https://www.wikidata.org/wiki/Q1726452>,MASCOT,Application,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,10,19.971623966292377,9.666666666666666,0
+<https://www.pbarrett.net/Bootstrap/Bootstrap.html>,Bootstrap,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.0025316455696203,2,0
+<https://www.pbarrett.net/Gower/Gower.html>,Gower,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.0025316455696203,2,0
+<https://neurometrika.org/node/34>,DARTEL,PlugIn,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,2.8275316455696204,2.6666666666666665,0
+<https://www.xlstat.com/>,XLSTAT,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,10,0.017024399192808657,1,0
+<http://data.gesis.org/somesci/EYEVISION_01>,EyeVision,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.0025316455696202528,1,0
+<http://www.ut-radiology.umin.jp/people/masutani/dTV/dTV_frame-e.htm>,DTV.II SR,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,2.669198312236287,5,0
+<http://www.volume-one.org/>,Volume 1,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,2.669198312236287,5,0
+<https://www.moleculardevices.com/products/cellular-imaging-systems/acquisition-and-analysis-software/metamorph-microscopy>,Metamorph,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,3.419198312236287,3,0
+<https://www.wikidata.org/wiki/Q7935239>,Virtuoso,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,2.669198312236287,5,0
+<https://www.wikidata.org/wiki/Q6955723>,Nvivo,Application,3,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6,1.850357732526142,1.6666666666666665,473.5
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FLIRT>,FLIRT,PlugIn,3,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6,13.964436407474382,6.999999999999997,0
+<http://flash.lakeheadu.ca/~rrempel/ecology>,Patch Analyst,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0.6479861910241658,4,0
+<https://www.wikidata.org/wiki/Q631011>,ArcView,Application,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,2.4983439235503075,4,0
+<https://actigraphcorp.com/support/software/actilife>,ActiLife,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.017024399192808657,2,0
+<https://www.bio-rad.com/en-de/product/quantity-one-1-d-analysis-software>,Quantity One,Application,3,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,5,12.870587201125176,5,0
+<https://www.processmacro.org/>,PROCESS,PlugIn,8,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,6,0.020253164556962022,1,0
+<https://users.fmrib.ox.ac.uk/~behrens/fdt_docs/fdt_dtifit.html>,DTIFit,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,12.988245931283906,9.5,0
+<https://bioinfogp.cnb.csic.es/tools/venny>,Venny,Application,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,8.10253164556962,6,0
+<http://hvsimage.com/>,HVS Image,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.5580872011251758,3,0
+<https://www.microscope.healthcare.nikon.com/products/software/nis-elements>,NIS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,5,2.634476090014065,3.5,0
+<https://www.ibm.com/products/spss-complex-samples>,Complex Samples,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0.0050632911392405056,1,0
+<http://data.gesis.org/somesci/GLOBALPARK_01>,Globalpark,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,1.0170243991928087,3,0
+<http://data.gesis.org/somesci/SNAP_01>,SNAP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,1.0170243991928087,3,0
+<https://rome.phri.ca/files/idatafax>,iDataFax,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.0025316455696202528,1,0
+<https://www.biopac.com/product/acqknowledge-software>,AcqKnowledge,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.0025316455696202528,1,0
+<https://www.wikidata.org/wiki/Q5014227>,CSPRO,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.3358649789029536,2,0
+<http://www.oege.org/software/cubex>,CubeX,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/DualRegression>,dual regression,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FAST>,FMRIB's Automated Segmentation Tool,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FIRST>,FMRIBâ€™s Integrated Registration and Segmentation Tool,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FIX>,FMRIB's ICA-based X-noiseifier,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT>,FNIRT,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM>,VBM,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MELODIC>,Multivariate Exploratory Linear Optimized Decomposition into Independent Components,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Randomise>,threshold-free cluster enhancement,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS>,tract-based spatial statistics,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,10.478722121760097,14,0
+<https://www.statisticalinnovations.com/latent-gold>,LatentGold,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.0025316455696202528,1,0
+<https://www.wikidata.org/wiki/Q1153889>,DIVA-GIS,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.850357732526142,4,0
+<https://www.altmetric.com/products/free-tools/bookmarklet>,Altmetric,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,0.5025316455696203,2,0
+<https://bioinformatics.mdanderson.org/public-software/tanric>,TANRIC,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.2733649789029536,3,0
+<https://www.ibm.com/products/spss-advanced-statistics>,Advanced Model,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.0025316455696202528,1,0
+<https://www.bio-rad.com/en-de/product/image-lab-software?ID=KRE6P5E8Z>,Image Lab,Application,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,16,8.023364978902954,6,0
+<http://apps.cytoscape.org/apps/mcode>,MCODE,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.00253164556962,9,0
+<http://www.microrna.org/>,microRNA,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.00253164556962,9,0
+<http://www.vsh.com/products/mflt>,ModFit,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.00253164556962,9,0
+<https://www.theppinetwork.com/>,PPI Network,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.00253164556962,9,0
+<https://xenabrowser.net/hub>,Xena,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,6.00253164556962,9,0
+<http://data.gesis.org/somesci/DRAEGER_EIT_DATA_ANALYSIS_TOOL_01>,Draeger EIT Data Analysis Tool,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.0025316455696202528,1,0
+<https://www.wikidata.org/wiki/Q2985668>,matplotlib,PlugIn,1,3,2,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,8,9.226495726495727,4.666666666666666,12
+<http://www.spatialecology.com/htools>,Hawth's analysis tools for ArcGis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.6111111111111112,3,0
+<https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#PerformingAnalysisWithSpatialAnalyst.htm>,Spatial Analyst,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1.6111111111111112,3,0
+<https://www.wikidata.org/wiki/Q1913760>,Maxent,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,7,4.611111111111111,3,20
+<https://www.textronsystems.com/products/lidar-analyst>,LiDAR Analyst,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,0.1111111111111111,1,0
+<https://sites.google.com/site/fukunagatsu/software/capr>,CapR,Application,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0.06666666666666667,1,0
+<http://www.medyan.org/>,MEDYAN,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0.06666666666666667,1,0
+<https://github.com/ruolin/strawberry>,Strawberry,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0.06666666666666667,1,0
+<https://sbalzarini-lab.org/?q=downloads/stochastic_chemical_net>,pSSAlib,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0.06666666666666667,1,0
+<http://www.treedyn.org/>,TreeDyn,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,24,1,1,0
+<http://bioinfo.unice.fr/ohm>,OHM,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,24,1,1,0
+<https://proteomics.broadinstitute.org/>,Spectrum Mill,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.076388888888889,4,0
+<https://www.heka.com/downloads/downloads_main.html#down_patchmaster>,Patchmaster,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.076388888888889,4,0
+<https://www.tse-systems.com/product-details/videomot2>,Videomot,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.076388888888889,4,0
+<https://www.wikidata.org/wiki/Q5597064>,InStat,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0.07638888888888888,1,0
+<http://bg.upf.edu/condel>,Condel,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,4.909722222222222,10,0
+<http://www.novocraft.com/products/novoalign>,Novoalign,Application,1,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,9,10.725106837606837,9,0
+<https://cadd.gs.washington.edu/>,CADD,Application,1,2,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,11,19.552579365079364,13.5,0
+<https://gatk.broadinstitute.org/>,Genome Analysis Toolkit,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,4.909722222222222,10,0
+<https://github.com/myourshaw/vax>,VAX,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,4.909722222222222,10,0
+<https://sift.bii.a-star.edu.sg/>,Sift,Application,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,4.909722222222222,10,0
+<https://www.qbaseplus.com/>,qBase,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,5,2.676388888888889,3,0
+<http://www.zeiss.com/microscopy/int/products/microscope-software/axiovision>,Axio Vision,Application,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.5763888888888888,3,0
+<https://imaris.oxinst.com/>,IMARIS,Application,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,5,6.0472222222222225,5.5,0
+<http://www.cytobank.org/>,Cytobank,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5.576388888888889,9,0
+<https://www.bruker.com/de/products-and-solutions/mr/nmr-software/topspin.html>,TopSpin,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5.576388888888889,9,0
+<https://www.bruker.com/en/services/training/magnetic-resonance/nmr-trainings/germany-switzerland/amix-software.html>,AMIX,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5.576388888888889,9,0
+<https://www.chenomx.com/>,Chenomx,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5.576388888888889,9,0
+<https://www.qiagen.com/us/products/discovery-and-translational-research/epigenetics/dna-methylation/methylation-specific-pcr/rotor-gene-q>,Rotor-Gene Q,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5.576388888888889,9,0
+<https://www.sartorius.com/en/products/process-analytical-technology/data-analytics-software/mvda-software/simca>,SIMCA-P,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,5.576388888888889,9,0
+<https://www.cytivalifesciences.com/imagingsoftware>,ImageQuant TL,Application,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,5,1.0763888888888888,4,0
+<https://www.imsc.res.in/~rsidd/phylogibbs>,PhyloGibbs,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,25,1,1,0
+<https://www.imsc.res.in/~rsidd/phylogibbs-mp>,PhyloGibbs-MP,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,25,1,1,0
+<https://www.wikidata.org/wiki/Q3699942>,Cytoscape,Application,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,14,14.701992753623188,6.333333333333331,4039
+<https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-acquisition/acquisition-for-lc-ms>,MassHunter Acquisition,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.020833333333333,3,0
+<https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/mass-profiler-professional-software>,Mass Profiler Professional,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.020833333333333,3,0
+<https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/qualitative-analysis>,MassHunter Qualitative Analysis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,2.020833333333333,3,0
+<http://vina.scripps.edu/>,Vina,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,4.270833333333334,7,0
+<https://www.3ds.com/products-services/biovia/products/data-science/biovia-insight>,InsightII,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,4.270833333333334,7,0
+<https://www.combosyn.com/>,CompuSyn,Application,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,4.7853260869565215,4,0
+<https://www.wikidata.org/wiki/Q1373457>,PyMOL,Application,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,4.270833333333334,7,0
+<https://www.wikidata.org/wiki/Q220182>,Linux Red Hat,OperatingSystem,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,4.270833333333334,7,0
+<http://tools.thermofisher.com/content/sfs/manuals/Man-XCALI-97194-BioWorks-331-SP1-User-ManXCALI97194-B-EN.pdf>,Bioworks,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,5.7019927536231885,9,0
+<http://www.funrich.org/>,FunRich,Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,5.7019927536231885,9,0
+<https://apps.cytoscape.org/apps/cluego>,ClueGO,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,5.7019927536231885,9,0
+<https://apps.cytoscape.org/apps/clustermaker>,clusterMaker,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,5.7019927536231885,9,0
+<https://apps.cytoscape.org/apps/reactomefis>,Reactome,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,5.7019927536231885,9,0
+<https://www.psb.ugent.be/cbd/papers/BiNGO/Home.html>,BiNGO,PlugIn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,5.7019927536231885,9,0
+<https://www.zeiss.de/mikroskopie/produkte/mikroskopsoftware/zen.html>,ZEN,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.020833333333333332,1,0
+<http://biotools.nubic.northwestern.edu/OligoCalc.html>,Oligo Calc,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,3.1875,5,0
+<https://dataanalysis.qiagen.com/pcr/documents/RT2ProfilerDataAnalysisHandbook.pdf>,RT2 Profiler PCR Array Data analysis,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,3.1875,5,0
+<https://www.bdbiosciences.com/en-us/instruments/research-instruments/research-software/flow-cytometry-acquisition/facsuite-software>,FACSuite,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,3.1875,5,0
+<https://www.olympus-lifescience.com/software/cellsens>,cellSens Dimension,Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,3.1875,5,0
+<https://www.emka.fr/product/iox2-software>,Iox,Application,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,16,1.0208333333333335,3,0
+<https://www.ansys.com/products/fluids>,CFD,Application,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,4.470833333333333,8,0
+<https://www.leica-microsystems.com/products/microscope-software/p/leica-las-x-ls>,LAS X,Application,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,4.470833333333333,8,0
+<https://www.solidworks.com/product/solidworks-3d-cad>,CAD,Application,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,4.470833333333333,8,0
+<https://www.wikidata.org/wiki/Q1243769>,Quicktime,Application,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5,4.470833333333333,8,0
+<https://softgenetics.com/mutationSurveyor.php>,Mutation Surveyor,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.604978354978355,5,0
+<https://www.wikidata.org/wiki/Q5533486>,Genome browser,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.604978354978355,5,0
+<https://github.com/arq5x/gemini>,GEMINI,Application,1,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,11,14.142857142857142,8.5,0
+<http://conifer.sourceforge.net/>,CoNIFER,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<http://csg.sph.umich.edu/abecasis/Pedstats>,PEDSTATS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<http://penncnv.openbioinformatics.org/en/latest>,PennCNV,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<http://sfu-compbio.github.io/mrsfast>,mrsFAST,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,13.642857142857142,17,0
+<http://www.imperial.ac.uk/people/l.coin>,cnvHap,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<http://www.sph.umich.edu/csg/abecasis/Merlin>,MERLIN,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,13.642857142857142,17,0
+<https://faculty.washington.edu/browning/beagle/beagle.html>,BEAGLE,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<https://faculty.washington.edu/wijsman/software.shtml>,PBAP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<https://gvs.gs.washington.edu/GVS150>,Genome Variation Server,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,13.642857142857142,17,0
+<https://sites.stat.washington.edu/thompson/Genepi/MORGAN/Morgan.shtml>,MORGAN,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,13.642857142857142,17,0
+<https://snp.gs.washington.edu/SeattleSeqAnnotation>,Seattle Seq,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,13.642857142857142,17,0
+<https://www.ensembl.org/info/docs/tools/vep>,Variant Effect Predictor,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,13.642857142857142,17,0
+<https://www.jurgott.org/linkage/SLINK.htm>,SLINK,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,13.642857142857142,17,0
+<https://genorm.cmgg.be/>,GeNorm,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.1666666666666667,2,0
+<https://www.datasci.com/products/software/dataquest-art>,Dataquest,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1.1666666666666667,2,0
+<https://www.broadinstitute.org/birdsuite>,Birdseye,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,0.6428571428571428,2,0
+<https://web.stanford.edu/group/pritchardlab/structure.html>,Structure,Application,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,4,29.1266139657444,17.000000000000004,1588
+<http://tree.bio.ed.ac.uk/software/tracer>,Tracer,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,27.79328063241107,25,0
+<https://beast.community/>,BEAST,Application,2,4,4,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,4,30.370203709334145,13.25,1588
+<https://github.com/ddarriba/modeltest>,MODELTEST,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,27.79328063241107,25,0
+<https://github.com/veg/datamonkey-js>,Datamonkey,Application,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,18.445454545454545,16.5,0
+<https://www.wikidata.org/wiki/Q10920783>,MrBayes,Application,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,4,30.80540184453228,18.999999999999993,0
+<https://www.wikidata.org/wiki/Q47519550>,Geneland,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,27.79328063241107,25,0
+<https://www.wikidata.org/wiki/Q5427149>,Fstat,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,27.79328063241107,25,0
+<https://www.wikidata.org/wiki/Q7118292>,PAUP,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,27.79328063241107,25,0
+<http://hpc.ilri.cgiar.org/beca/bioinfo/convert.html>,convert,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11.359947299077735,24,0
+<http://www1.montpellier.inra.fr/CBGP/software/Bottleneck/bottleneck.html>,BOTTLENECK,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,18.109947299077735,16,0
+<https://beast.community/logcombiner>,LogCombiner,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11.359947299077735,24,0
+<https://github.com/rambaut/figtree>,Fig Tree,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11.359947299077735,24,0
+<https://peterbeerli.com/migrate-html5>,migrate,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11.359947299077735,24,0
+<https://sourceforge.net/projects/ibdws>,IBDWS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11.359947299077735,24,0
+<https://www.beast2.org/treeannotator>,TreeAnnotator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11.359947299077735,24,0
+<https://www.wikidata.org/wiki/Q42274>,Google Earth,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,14.359947299077735,13.5,3148
+<http://www.softberry.com/berry.phtml>,FGENESB,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://bruker-daltonics-biotools.software.informer.com/3.0>,BioTools,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://github.com/sanger-pathogens/Artemis>,Artemis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://phylopythias.bifo.helmholtz-hzi.de/>,PhylopythiaS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,10,7.854978354978355,11,0
+<https://rast.nmpdr.org/>,Rapid Annotation using Subsystem Technology,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5400.pdf>,ProteomeWeaver,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://www.bruker.com/en/products-and-solutions/mass-spectrometry/maldi-tof/autoflex-max.html>,Flex Analysis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://www.wikidata.org/wiki/Q3047275>,InterPro,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,7.854978354978355,11,0
+<https://www.hyphy.org/>,HyPhy,Application,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,2.012121212121212,7,0
+<http://www3.psych.purdue.edu/~willia55/Announce/cyberball.htm>,Cyberball,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0.041666666666666664,1,0
+<http://data.gesis.org/somesci/ALPHASIM_01>,AlphaSim,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.375,3,0
+<http://www.restfmri.net/forum/REST_V1.8>,REST,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.375,3,0
+<https://www.wikidata.org/wiki/Q1026367>,Scikit-learn,PlugIn,1,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,8,6.951923076923077,6,0
+<http://www.nitrc.org/projects/conn>,CONN,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.3845238095238095,4,0
+<https://www.nitrc.org/projects/artifact_detect>,ART,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.3845238095238095,4,0
+<https://www.wikidata.org/wiki/Q23992212>,NeuroSynth,Application,1,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,13.11346153846154,8.5,0
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView>,FSLView,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,3.0801282051282053,6,0
+<https://pypi.org/project/nilearn>,Nilearn,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,3.0801282051282053,6,0
+<https://www.nitrc.org/projects/mricron>,Mricron,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,3.0801282051282053,6,0
+<http://homepages.ed.ac.uk/pmckeigu/software/admixmap>,ADMIXMAP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,0.3333333333333333,1,0
+<http://stephenslab.uchicago.edu/phase/download.html>,PHASE,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<http://www.bioportal.uio.no/>,Bioportal,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<http://www.lillo.org.ar/phylogeny/VIP>,VIP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,15.433333333333334,26,0
+<http://www.nrp.ac.uk/nrp-strategic-alliances/elsa/software/microchecker/>,MICRO-CHECKER,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,22.183333333333334,17,0
+<http://www1.montpellier.inra.fr/CBGP/diyabc>,DIYABC,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://code.google.com/archive/p/lagrange>,LAGRANGE,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://github.com/reedacartwright/spagedi>,SPAGeDI,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://rosenberglab.stanford.edu/clumpp.html>,CLUMPP,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://rosenberglab.stanford.edu/distruct.html>,DISTRUCT,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://www.wikidata.org/wiki/Q258956>,SPLITSTREE,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://www1.montpellier.inra.fr/CBGP/software/FreeNA>,FREENA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15.433333333333334,26,0
+<https://sites.google.com/site/mtphyl>,mtPhyl,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1.6,4,0
+<https://www.thermofisher.com/order/catalog/product/4474978>,SeqScape,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1.6,4,0
+<https://www.wikidata.org/wiki/Q30178153>,Genevestigator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.6,2,0
+<https://www.micropticsl.com/products/sperm-class-analyzer-casa-system>,Sperm Class Analyzer,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0.09999999999999999,1,0
+<https://www.wikidata.org/wiki/Q667566>,VBA,ProgrammingEnvironment,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.014492753623188404,1,0
+<https://www.wikidata.org/wiki/Q1307239>,OriginPro,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,10,1.0144927536231885,1,1588
+<https://www.mbfbioscience.com/stereo-investigator>,Stereo investigator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.014492753623188404,1,0
+<https://www.wikidata.org/wiki/Q11261>,Word,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,10,0.6956521739130435,2,0
+<http://www.euroqol.org/eq-5d-products/eq-5d-5l.html>,EQ-5D calculator,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.014492753623188404,1,0
+<https://www.wikidata.org/wiki/Q7673435>,Tableau,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.014492753623188404,1,0
+<https://www.wikidata.org/wiki/Q106382290>,SurveyMonkey,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.014492753623188404,1,0
+<https://www.wikidata.org/wiki/Q7307076>,Refworks,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.014492753623188404,1,0
+<https://cbr.jic.ac.uk/threadmapper>,THREaD Mapper Studio,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,0.37179487179487175,2,0
+<http://prody.csb.pitt.edu/>,ProDy,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,0.03846153846153846,1,0
+<http://hmmer.janelia.org/>,HMMER,Application,0,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,8,3.371794871794872,3,0
+<http://eutils.ncbi.nlm.nih.gov/>,Entrez Utilities Entrez Programming Utilities,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,4.038461538461538,5,0
+<http://www.inxightfedsys.com/pdfs/LinguistX_FinalWeb.pdf>,Inxight,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,4.038461538461538,5,0
+<https://www.attivio.com/>,Attivio,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,4.038461538461538,5,0
+<https://www.wikidata.org/wiki/Q1635410>,NLTK,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,8,4.038461538461538,5,0
+<https://www.wikidata.org/wiki/Q8046870>,Yahoo-BOSS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,4.038461538461538,5,0
+<http://code.google.com/p/pyms>,PyMS,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,5.871794871794872,8,0
+<https://anaconda.org/bioconda/pycluster>,Pycluster,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,5.871794871794872,8,0
+<https://pypi.org/project/pycdf>,Pycdf,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,5.871794871794872,8,0
+<https://www.wikidata.org/wiki/Q5288>,tcl,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,5.871794871794872,8,0
+<https://www.wikidata.org/wiki/Q616360>,tk,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,5.871794871794872,8,0
+<https://www.wikidata.org/wiki/Q67197176>,Netcdf,PlugIn,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,5.871794871794872,8,0
+<https://github.com/hddm-devs/hddm>,HDDM,PlugIn,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,8,0.03846153846153846,1,0
+<https://github.com/joblib/joblib>,joblib,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,2.871794871794872,6,0
+<https://github.com/veg/idepi>,IDEPI,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,8,2.871794871794872,6,0
+<https://www.wikidata.org/wiki/Q4118434>,Biopython,PlugIn,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,8,5.743589743589744,5,0
+<http://mdanalysis.googlecode.com/>,MDAnalysis,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,8,1.0384615384615385,2,0
+<https://github.com/encore-similarity/encore>,ENCORE,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,8,1.0384615384615385,2,0
+<https://www.wikidata.org/wiki/Q7256288>,PsychoPy,PlugIn,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,8,0.5384615384615384,1,0
+<https://github.com/etal/cnvkit>,CNVkit,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,8,1.8717948717948718,4,0
+<https://www.wikidata.org/wiki/Q7314104>,Reportlab,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,1.8717948717948718,4,0
+<http://www.bio.utexas.edu/faculty/antisense/garli/Garli.html>,GARLI,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,4.815384615384615,8,0
+<https://github.com/ncbi/pgap>,Prokaryotic Genomes Automatic Annotation Pipeline,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,4.815384615384615,8,0
+<https://www.pacb.com/products-and-services/analytical-software/smrt-analysis>,SMRT analysis,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,4.815384615384615,8,0
+<https://www.wikidata.org/wiki/Q29876897>,CLC Genomic Workbench,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,4.815384615384615,8,0
+<https://www.wikidata.org/wiki/Q7016954>,Newbler,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,4.815384615384615,8,0
+<https://github.com/choderalab/ensembler>,Ensembler,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,9,0.11538461538461536,2,0
+<https://github.com/scimemia/M-Track>,M-Track,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1.6153846153846154,4,0
+<https://www.wikidata.org/wiki/Q165277>,OpenCV,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1.6153846153846154,4,0
+<http://github.com/pughlab/bamgineer>,Bamgineer,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,8,0.03846153846153846,1,0
+<https://github.com/opencobra/cobrapy>,COBRApy,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,1.0384615384615385,2,0
+<https://github.com/sbrg/cobrame>,COBRAme,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,8,1.0384615384615385,2,0
+<https://www.wikidata.org/wiki/Q7602967>,Statview,Application,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,13,2.2,0.42857142857142855,0
+<http://www.touptek.com/product/showproduct.php?lang=en&id=103>,ToupView,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,1.342857142857143,3,0
+<https://www.wikidata.org/wiki/Q207902>,Acrobat,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,1.342857142857143,3,0
+<https://www.brainproducts.com/downloads.php?kid=9>,Brain Vision Analyzer,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,1.342857142857143,1.5,0
+<https://www.experimetrix.com/>,Experimetrix,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.7,2,0
+<http://data.gesis.org/somesci/SADABS_01>,SADABS,Application,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<http://data.gesis.org/somesci/SAINT_01>,SAINT,Application,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<http://www.cgl.ucsf.edu/chimera>,Chimera,Application,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<http://www.ibmh.msk.su/PASS>,Prediction of Activity Spectra for Substances,Application,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<https://ambermd.org/AmberTools.php>,AMBERTOOLS,Application,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<https://github.com/Amber-MD/cpptraj>,CPPTRAJ,PlugIn,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<https://www.wikidata.org/wiki/Q28447694>,MOE,Application,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,17,7,8,0
+<https://www.thermofisher.com/order/catalog/product/CHROMELEON7#/CHROMELEON7>,Chromeleon,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,21,2,1,0
+<http://data.gesis.org/somesci/LSM_IMAGING_01>,LSM imaging,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,21,1.5,2,0
+<https://www.wikidata.org/wiki/Q7096535>,Openlab,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,21,1.5,2,0
+<http://www.wakayama-u.ac.jp/~kawahara/STRAIGHTdemo>,STRAIGHT,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.25,1,0
+<https://www.cloudresearch.com/>,TurkPrime,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.25,2,0
+<https://www.wikidata.org/wiki/Q733115>,Mechanical Turk,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1.25,2,0
+<http://sysbio.rnet.missouri.edu/multicom_toolbox>,MSACompro,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,26,1,1,0
+<http://msaprobs.sourceforge.net/>,MSAProbs,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,26,1,1,0
+<https://www.wikidata.org/wiki/Q6862245>,Mimics,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.5,2,0
+<https://www.wikidata.org/wiki/Q7394802>,Strand7,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1.5,2,0
+<https://www.arb-silva.de/aligner>,SILVA SINA,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,1.1,3,0
+<https://www.wikidata.org/wiki/Q25099639>,mothur,Application,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,16,1.6,1.5,0
+<http://psychtoolbox.org/docs/Quest>,QUEST,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0.08333333333333333,1,0
+<http://teacher.bmc.uu.se/CRIMAP/Crimap/wwwversn.html>,Crimap,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,3,3,0
+<http://qtlcap.ed.ac.uk/>,QTL Express,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,3,3,0
+<https://cran.r-project.org/package=qtl>,R/Qtl,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,3,3,0
+<https://www.icrea.cat/Web/OtherSectionViewer.aspx?key=485&titol=Software:Qxpak>,qxpak,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,19,3,3,0
+<https://www.msg.chem.iastate.edu/gamess>,GAMESS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,27,1,1,0
+<http://www.github.com/FragIt>,FragIt,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,27,1,1,0
+<https://biology-assets.anu.edu.au/GenAlEx>,GenAlEx,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,5.75,8,0
+<https://tools.thermofisher.com/content/sfs/brochures/cms_039770.pdf>,Genescan,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,5.75,8,0
+<https://www.montana.edu/kalinowski/software/ml-relate>,MLRELATE,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,5.75,8,0
+<https://www.thermofisher.com/order/catalog/product/4381867#/4381867>,Peakscanner,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,5.75,8,0
+<https://www.zsl.org/science/software/coancestry>,COANCESTRY,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,5.75,8,0
+<https://tgvaughan.github.io/MultiTypeTree>,MultiTypeTree,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,0.3269230769230769,2,0
+<https://github.com/Taming-the-BEAST/SCOTTI-Tutorial>,SCOTTI,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0.25,1,0
+<http://apps.cytoscape.org/apps/bisogenet>,BisoGenet,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<http://david.abcc.ncifcrf.gov/>,DAVID,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<http://david.niaid.nih.gov/david/ease.htm>,Expression Analysis Systematic Explorer,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<https://david.ncifcrf.gov/content.jsp?file=functional_annotation.html>,Functional Annotation Tool,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<https://github.com/cole-trapnell-lab/cufflinks>,Cufflinks,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<https://support.illumina.com/sequencing/sequencing_software/igenome.html>,iGenomes,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<https://www.bdbiosciences.com/en-us/instruments/research-instruments/research-software/flow-cytometry-acquisition/facsdiva-software>,BD FACSDiva,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,7.666666666666666,10,0
+<https://www.wikidata.org/wiki/Q2066865>,ProtÃ©gÃ©,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,28,1,1,0
+<http://ontofox.hegroup.org/>,OntoFox,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,28,1,1,0
+<https://www.wikidata.org/wiki/Q2363545>,FreeSurfer,Application,2,2,2,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,14.876190476190477,6.333333333333331,4752
+<https://doi.org/10.1016/j.neuroimage.2010.12.012>,SAMSCo,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6,1.5095238095238095,5,0
+<http://legrosmathi.eu/skeeterbuster>,Skeeter Buster,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,29,1,1,0
+<http://data.gesis.org/somesci/CIMSIM_01>,CIMSiM,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,29,1,1,0
+<https://www.brainproducts.com/downloads.php?kid=2>,Brain Vision Recorder,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.16666666666666666,1,0
+<http://infecepi.unizar.es/pages/ratio/soft_uk.htm>,WinEpiscope,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0.5,1,0
+<http://www.sdmtoolbox.org/>,SDMtoolbox,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,2,3,0
+<https://github.com/danlwarren/ENMTools>,ENMtools,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,2,3,0
+<https://www.thermofisher.com/order/catalog/product/OPTON-30965#/OPTON-30965>,Xcalibur,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,10,0.5,1,0
+<http://data.gesis.org/somesci/IVIEW_X_01>,iView X,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.333333333333333,3,0
+<http://data.gesis.org/somesci/EXPERIMENT_CENTER_01>,Experiment Center,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.333333333333333,3,0
+<https://gazeintelligence.com/smi-software-download>,BeGaze,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2.333333333333333,3,0
+<https://doi.org/10.1186%2F2049-2618-1-6>,CloVR-ITS,PlugIn,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,1,1,0
+<http://clovr.org/>,CloVR,Application,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,30,1,1,0
+<https://github.com/mikessh/vdjtools>,VDJtools,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,9,0.07692307692307691,1,0
+<https://github.com/zeeev/wham>,Wham,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,9,0.07692307692307691,1,0
+<https://github.com/christbald/magpie>,MAGPIE,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,9,1.0769230769230769,2,0
+<https://www.wikidata.org/wiki/Q190478>,Ruby on Rails,ProgrammingEnvironment,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,1.0769230769230769,2,0
+<http://www.csbio.unc.edu/rs>,RNA-Skim,Application,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,0.5,1,0
+<https://www.wikidata.org/wiki/Q3478650>,Sente,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,31,1,1,0
+<https://www.wikidata.org/wiki/Q1340244>,Endnote,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,31,1,1,0
+<https://www.wikidata.org/wiki/Q8023586>,WinBugs,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,32,1,1,0
+<https://cran.r-project.org/package=R2WinBUGS>,R2WinBUGS,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,32,1,1,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dBandpass.html>,3dBandpass,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDespike.html>,3dDespike,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/MapIcosahedron.html>,MapIcosahedron,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://afni.nimh.nih.gov/Suma>,SUMA,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://cran.r-project.org/package=bootES>,BootES,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://github.com/PyMVPA/PyMVPA>,PyMVPA,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://github.com/Washington-University/HCPpipelines/tree/master/MSMAll>,MSM-All,PlugIn,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://neuro.debian.net/>,NeuroDebian,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://www.wikidata.org/wiki/Q7715973>,Debian,OperatingSystem,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,9.033333333333333,11,0
+<https://www.cortechs.ai/products/neuroquant>,NeuroQuant,Application,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2.333333333333333,3,0
+<https://doi.org/10.1016/j.neuroimage.2009.09.069>,Learning Embeddings Atlas Propagation,Application,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2.333333333333333,3,0
+<https://www.quanser.com/products/quarc-real-time-control-software>,Quarc,Application,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2.333333333333333,3,0
+<http://isisweb.org/touch_stat_pgm.htm>,TouchStat,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,22,2,2,0
+<http://data.gesis.org/somesci/HABIT_2000_01>,Habit 2000,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,22,2,2,0
+<https://vpixx.com/>,VPixx,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,22,2,2,0
+<http://visualizlab.org/rulebender>,RuleBender,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,5,5,0
+<http://indy.cs.concordia.ca/auto>,AUTO,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18,5,5,0
+<https://github.com/LLNL/sundials>,SUNDIALS,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,5,5,0
+<https://github.com/RuleWorld/bionetgen>,BioNetGen,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,5,5,0
+<https://github.com/ufz/cvode>,CVODE,PlugIn,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,5,5,0
+<https://sourceforge.net/projects/matcont>,MatCont,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,18,5,5,0
+<https://cran.r-project.org/package=caret>,caret,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,5.333333333333333,6,0
+<https://cran.r-project.org/package=irr>,irr,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,5.333333333333333,6,0
+<https://cran.r-project.org/package=mRMRe>,mRMRe,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,5.333333333333333,6,0
+<https://pypi.org/project/pyradiomics>,PyRadiomics,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,5.333333333333333,6,0
+<https://www.bioconductor.org/packages/survcomp>,survcomp,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,5.333333333333333,6,0
+<https://www.wikidata.org/wiki/Q21447895>,TensorFlow,PlugIn,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,5.333333333333333,6,0
+<http://bowtie-bio.sourceforge.net/bowtie2>,Bowtie,Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,0.5,1,0
+<https://www.wikidata.org/wiki/Q216293>,Pong,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,33,1,1,0
+<https://stella-emu.github.io/>,Stella,Application,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,33,1,1,0
+<https://www.wikidata.org/wiki/Q2493781>,Bitbucket,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,34,1,1,0
+<https://bitbucket.org/ipk_bit_team/bioescorte-suggestion>,LAILAPS-QSM,Application,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,34,1,1,0
+<https://tools.thermofisher.com/content/sfs/brochures/D01575~.pdf>,iTeva,Application,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,23,2,2,0
+<http://www.vcclab.org/lab/alogps>,Alogps,Application,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,23,2,2,0
+<https://www.phi.com/surface-analysis-equipment/system-software/multipak-data-reduction-software.html>,MultiPak,Application,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,23,2,2,0

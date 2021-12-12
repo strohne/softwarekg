@@ -1,0 +1,143 @@
+---
+title: "Software Knowledge Graph Community Analysis"
+output: html_notebook
+---
+
+
+```{r, echo=FALSE, echo=FALSE}
+
+#
+# Packages ----
+#
+
+
+library(tidyverse)
+
+
+#
+# Settings ----
+#
+
+
+# We kept our data in a synced folder outside the repo.
+# Since paths depend on user & machine, we define them in settings.R.
+# Example content of settings.R:
+# path.root <- "C:/Users/Jakob/sciebo/Projekte/SoftwareKG/"
+# path.data <- paste0(path.root,"data/")
+# path.network <- paste0(path.root,"network/")
+source("settings.R")
+
+theme_set(theme_bw(base_size=12))
+
+colours = rev(c("#F8766D", "#619CFF", "#48d993", "#C77CFF",
+                "#999999", "#f2b602", "#0072B2", "#D55E00", 
+                "#9abd8c", "#CF2355", "#56B4E9", "#61295c",
+                "#009E73","#61295c", "#56B4E9", "#CF2355", 
+                "#996953", "#8787e6", "#2E27E6","#F8766D", 
+                "#619CFF"))
+
+
+#
+# Data ----
+#
+
+com_nodes <- read_csv(paste0(path.network, "com_nodes.csv"))
+com_communities <- read_csv(paste0(path.network, "com_communities.csv"))
+
+
+```
+
+# Overview
+
+Using the Leiden algorithm on conditional probabilities of cooccurrences, we found 34 communities:
+
+- 11 pairs, i.e. communities consisting of two nodes each. 
+- 17 communities consituted by 3 to 49 nodes.
+- 6 large communities containing fifty nodes or more. 
+
+```{r}
+
+com_communities %>% 
+  count(n_nodes) %>% 
+  print()
+
+com_communities %>% 
+  mutate(top_degree_in = str_trunc(top_degree_in,30)) %>%
+  mutate(top_degree_out = str_trunc(top_degree_out,30)) %>% 
+  select(community_no,n_nodes, density, top_degree_in, top_degree_out) %>% 
+  print()
+
+```
+
+
+# Software types
+```{r}
+
+# Software types
+com_nodes %>%  
+  count(community_no, softwaretype) %>% 
+  group_by(community_no) %>% 
+  mutate(p = n / sum(n)) %>% 
+  ungroup() %>% 
+  
+  ggplot(aes(y=n,x=community_no,fill=softwaretype)) +
+  geom_col() 
+
+```
+
+
+# Degrees by software types
+com_nodes %>%  
+  filter(as.numeric(community_no) <= 15) %>% 
+  pivot_longer(cols=starts_with("degree"), names_to="degree") %>% 
+  ggplot(aes(x=softwaretype, y=value, fill=degree)) +
+
+  geom_boxplot() +
+  facet_wrap(~community_no, ncol=3) +
+#  scale_y_log10() +
+  coord_flip()
+  
+
+# Concepts
+
+
+```{r}
+
+pl <- com_nodes %>% 
+  pivot_longer(
+    cols=starts_with("con_"),
+    names_to = "concepts_name",
+    names_prefix="con_",
+    values_to = "concepts_n"
+  ) %>% 
+  
+  group_by(community_no, concepts_name) %>%
+  summarize(concepts_n = sum(concepts_n)) %>% 
+  ungroup() %>% 
+  
+  group_by(community_no) %>% 
+  mutate(concepts_p= concepts_n / sum(concepts_n)) %>% 
+  ungroup() %>% 
+  
+  mutate(concepts_name = fct_reorder(concepts_name,-concepts_p,mean)) %>%
+  mutate(concepts_no = as.numeric(concepts_name)) %>% 
+  mutate(concepts_name = paste0(concepts_no," ",concepts_name)) %>%
+  mutate(concepts_name = fct_reorder(concepts_name,concepts_no,mean)) %>%
+  mutate(concepts_label = ifelse(concepts_p > 0.1, concepts_no,"")) %>% 
+  
+  
+  ggplot(aes(y=concepts_p,x=community_no,fill=concepts_name)) +
+  geom_col() +
+  geom_text(
+    aes(label=concepts_label),
+    position = position_stack(vjust = .5),
+    size=3, color="white"
+  ) +
+
+  scale_fill_manual(values=colours) +
+  theme(legend.position = "bottom")
+
+print(pl)
+
+```
+

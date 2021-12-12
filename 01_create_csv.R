@@ -1,8 +1,26 @@
+#
+# Extract KnowledgeKG data from JSONLD
+#
+
+#
+# Packages ----
+#
+
 library(SPARQL)
 library(tidyverse)
 library(widyr)
 
+
+#
+# Settings ----
+#
+
 server <- "http://127.0.0.1:3030/SoMeSci/sparql"
+
+
+#
+# Mentions ----
+#
 
 query_mentions <- "
 PREFIX schema: <http://schema.org/>
@@ -29,6 +47,11 @@ WHERE{
 
 df_mentions <- SPARQL(url=server, query=query_mentions)$results
 
+write_csv2(df_mentions, file = "SoMeSci_mentions.csv")
+
+#
+# Journal concepts ----
+#
 
 query_concept <- "
 PREFIX schema: <http://schema.org/>
@@ -51,6 +74,12 @@ WHERE{
 
 df_concept <- SPARQL(url=server, query=query_concept)$results
 
+write_csv2(df_concept, file = "SoMeSci_concepts.csv")
+
+
+#
+# Softwares ----
+#
 
 query_softwarename <- "
 PREFIX schema: <http://schema.org/>
@@ -130,10 +159,6 @@ WHERE
 ORDER BY ?sw"
 
 df_softwaretype <- SPARQL(url=server, query=query_softwaretype)$results
-
-
-write_csv2(df_mentions, file = "SoMeSci_mentions.csv")
-write_csv2(df_concept, file = "SoMeSci_concepts.csv")
 
 df_softwarename %>%
   left_join(df_softwaretype, by = 'sw') %>%

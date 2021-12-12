@@ -8,4 +8,4 @@ Worklow:
 
 You will find a walk through the results in the comments of [03_analyze_net.R](03_analyze_net.R). 
 
-See the plots in the [network](network) folder.
+See the plots in the [results](results) folder.

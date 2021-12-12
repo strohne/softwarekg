@@ -13,7 +13,7 @@ library(ggrepel)
 theme_set(theme_bw(base_size=12))
 
 
-# We kept our data in a synced folder outside the repo.
+# We originally kept our data in a synced folder outside the repo.
 # Since paths depend on user & machine, we define them in settings.R.
 # Example content of settings.R:
 # path.root <- "C:/Users/Jakob/sciebo/Projekte/SoftwareKG/"
@@ -22,6 +22,7 @@ theme_set(theme_bw(base_size=12))
 # path.results <- paste0(path.root,"results/")
 # source("settings.R")
 
+path.data <- "data/"
 path.network <- "network/"
 path.results <- "results/"
 

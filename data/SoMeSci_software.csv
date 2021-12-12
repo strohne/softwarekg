@@ -1,0 +1,956 @@
+sw;name;softwaretype
+<http://apps.cytoscape.org/apps/bisogenet>;BisoGenet;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://apps.cytoscape.org/apps/mcode>;MCODE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://bejerano.stanford.edu/great>;GREAT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://bg.upf.edu/condel>;Condel;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://bio.ifom-firc.it/NTFootPrinter>;NemaFootPrinter;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://bio.informatics.iupui.edu/proteolens>;ProteoLens;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://biocomputer.bio.cuhk.edu.hk/T3DB/T3_MM.php>;T3_MM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://biocomputer.bio.cuhk.edu.hk/T3DB/T3_MM.php>;T3_MM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://bioconductor.org/packages/MutationalPatterns>;MutationalPatterns;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://bioinf.wehi.edu.au/software/goseq>;GOseq;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://bioinfo.noble.org/PolyGenic_QTL>;PEPIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://bioinfo.unice.fr/ohm>;OHM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://biotools.nubic.northwestern.edu/OligoCalc.html>;Oligo Calc;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://bonsai.hgc.jp/~mdehoon/software/cluster>;Cluster;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://bowtie-bio.sourceforge.net/bowtie2>;Bowtie;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://brainmap.co.uk/>;ICC toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://calib.org/calib>;CALIB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://celest.mbb.rutgers.edu/>;CeleST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://clovr.org/>;CloVR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://code.google.com/p/biographer>;biographer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://code.google.com/p/pyms>;PyMS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://code.google.com/p/rna-star>;STAR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://comp-bio.anu.edu.au/bellerophon/bellerophon.pl>;Bellerpheron;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://compbio.clemson.edu/DelPhi.php>;DelPhi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://conifer.sourceforge.net/>;CoNIFER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://consurf-hssp.tau.ac.il/>;ConSurf-HSSP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://coxpress.sf.net/>;coXpress;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://csg.sph.umich.edu/abecasis/Pedstats>;PEDSTATS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://csg.sph.umich.edu/abecasis/mach>;MACH;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://csg.sph.umich.edu/abecasis/mach>;Mach;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://csg.sph.umich.edu/abecasis/metal>;METAL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://ctg.cncr.nl/software/magma>;MAGMA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://ctrax.sourceforge.net/>;Ctrax;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://ctrax.sourceforge.net/fixerrors.html>;FixErrors;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://data.gesis.org/somesci/ALPHASIM_01>;AlphaSim;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://data.gesis.org/somesci/CELLQUEST_01>;CellQuest;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/CHART_01>;Chart;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/CIMSIM_01>;CIMSiM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/DATACAM_01>;Datacam;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/DIGIPRO_01>;Digipro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/DRAEGER_EIT_DATA_ANALYSIS_TOOL_01>;Draeger EIT Data Analysis Tool;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/EASY_RA1_EASY_RANDOMIZER_01>;EASY RA1 Easy Randomizer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/EXPERIMENT_CENTER_01>;Experiment Center;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/EYELINK_API_01>;EyeLink API;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/EYEVISION_01>;EyeVision;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/GLOBALPARK_01>;Globalpark;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/HABIT_2000_01>;Habit 2000;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/HGF_01>;HGF;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://data.gesis.org/somesci/IMAGELAB_01>;Imagelab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/IVIEW_X_01>;iView X;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/LSM_IMAGING_01>;LSM imaging;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/OOIBASE_01>;OOIBase;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/SADABS_01>;SADABS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/SAINT_01>;SAINT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/SNAP_01>;SNAP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://data.gesis.org/somesci/TGAME_01>;TGAME;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://david.abcc.ncifcrf.gov/>;DAVID;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://david.niaid.nih.gov/david/ease.htm>;Expression Analysis Systematic Explorer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1186/gb-2006-7-4-r29>;GENEMAPPER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1186/gb-2006-7-4-r29>;GeneMapper;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1186/gb-2006-7-4-r29>;genemapper;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1371/journal.pcbi.1002380>;DOGS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1371/journal.pone.0078786>;ReMIT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1371/journal.pone.0078786>;ReMIT Client;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://doi.org/10.1371/journal.pone.0091620>;neurofeedback toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://epigraph.mpi-inf.mpg.de/>;EpiGRAPH;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://eutils.ncbi.nlm.nih.gov/>;Entrez Utilities Entrez Programming Utilities;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://familygenomics.systemsbiology.net/grab>;GRAB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://fcsb.njau.edu.cn/microsyn>;MicroSyn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://fim.uni-muenster.de/>;FIMTrack;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://flash.lakeheadu.ca/~rrempel/ecology>;Patch Analyst;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://genetics.bwh.harvard.edu/pph2>;PolyPhen;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://github.com/pughlab/bamgineer>;Bamgineer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://hmmer.janelia.org/>;HMMER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://homepages.ed.ac.uk/pmckeigu/software/admixmap>;ADMIXMAP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://hpc.ilri.cgiar.org/beca/bioinfo/convert.html>;convert;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://hvsimage.com/>;HVS Image;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://indy.cs.concordia.ca/auto>;AUTO;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://infecepi.unizar.es/pages/ratio/soft_uk.htm>;WinEpiscope;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://intergrowth21.ndog.ox.ac.uk/>;Newborn Size Application;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://isisweb.org/touch_stat_pgm.htm>;TouchStat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://jtreeview.sourceforge.net/>;TreeView;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://jvsmicroscope.uta.fi/immunoratio>;Immunoratio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://kobas.cbi.pku.edu.cn/>;KOBAS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://legrosmathi.eu/skeeterbuster>;Skeeter Buster;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://liulab.dfci.harvard.edu/MACS>;MACS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://lpg.nci.nih.gov/>;SNPdetector;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://marsbar.sourceforge.net/>;Marsbar;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://mbb-team.github.io/VBA-toolbox/>;VBA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://mdanalysis.googlecode.com/>;MDAnalysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://mdanalysis.googlecode.com/>;MDAnalysis molecular analysis toolkit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://meme.sdsc.edu/>;FIMO;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://mib.helsinki.fi/>;Microscopy Image Browser;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://mirdb.org/>;miRDB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://msaprobs.sourceforge.net/>;MSAProbs;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://mutationassessor.org/>;MutationAssessor;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://neurocics.udd.cl/LANtoolbox.html>;LAN toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://novosnp.bioinf.be/>;NovoSNP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://olisweb.com/olisweb_old/Olis-Software.html>;GlobalWorks;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://ontofox.hegroup.org/>;OntoFox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://openmeeg.github.io/>;openMEEG;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://pathomx.org/>;Pathomx;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://penncnv.openbioinformatics.org/en/latest>;PennCNV;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://pep2path.sourceforge.net/>;Pep2Path;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://phagocytes.ca/miisr>;Molecular Interactions in Super Resolution;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://phagocytes.ca/miisr>;Molecular Interactions in Super-Resolution;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://prody.csb.pitt.edu/>;ProDy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://prtools.tudelft.nl/>;PRTools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://psychtoolbox.org/docs/EyelinkToolbox>;Eyelink Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://psychtoolbox.org/docs/Quest>;QUEST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://pyrotagger.jgi-psf.org/>;PyroTagger;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://qtlcap.ed.ac.uk/>;QTL Express;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://rdp.cme.msu.edu/>;RDP Classifier;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://repeat.biol.ucy.ac.cy/lcr-exxxplorer>;LCR-eXXXplorer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://rseqc.sourceforge.net/>;RSeQC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://sailing.cs.cmu.edu/Drosophila_ISH_images>;GINI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://sfu-compbio.github.io/mrsfast>;mrsFAST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://smart.emblheidelberg.de/>;SMART;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://sourceforge.net/projects/famseq>;FamSeq;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://sourceforge.net/projects/lamina>;LAMINA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://stephenslab.uchicago.edu/phase/download.html>;PHASE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://strep-microarray.sbs.surrey.ac.uk/RankProducts>;RankProdIt;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://subread.sourceforge.net/>;Subread;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://support.illumina.com/sequencing/sequencing_software/casava.html>;CASAVA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://sysbio.rnet.missouri.edu/multicom_toolbox>;MSACompro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://teacher.bmc.uu.se/CRIMAP/Crimap/wwwversn.html>;Crimap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://tools.thermofisher.com/content/sfs/manuals/Man-XCALI-97194-BioWorks-331-SP1-User-ManXCALI97194-B-EN.pdf>;Bioworks;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://trackvis.org/>;TrackVis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://tree.bio.ed.ac.uk/software/tracer>;TRACER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://tree.bio.ed.ac.uk/software/tracer>;Tracer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://varscan.sourceforge.net/>;VarScan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://vcftools.sourceforge.net/>;vcftools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://vina.scripps.edu/>;Autodock Vina;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://vina.scripps.edu/>;Vina;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://visant.bu.edu/>;VisANT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://visualizlab.org/rulebender>;RuleBender;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://webs.uvigo.es/acraaj/GenomePop.htm>;GenomePop;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://whitelab.biology.dal.ca/SOCPROG/social.htm>;SOCPROG;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.abcc.ncifcrf.gov/wps/wps_index.php>;WholePathwayScope;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.accelrys.com/dstudio/ds_viewer>;DS ViewerPro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.actigraphy.respironics.com/solutions/actiware>;Actiware;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.adept.net.au/software/mediacy/ImagePro/scopePro.shtml>;Scope-Pro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.aqua.stir.ac.uk/rep-gen/Downloads.html>;FAP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.arringtonresearch.com/viewpoint.html>;ViewPoint;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.atgc-montpellier.fr/phyml>;PhyML;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.babyvoc.org/IVICT.html>;IVICT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.baseclear.com/bioinformatics-tools>;SSPACE-LongRead;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.binarybottle.com/mindboggle.html>;Mindboggle;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.bio.utexas.edu/faculty/antisense/garli/Garli.html>;GARLI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.bioinformatics.sussex.ac.uk/SHARP2>;SHARP2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.bionut.ki.se/users/pesv/podbat>;Podbat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.bioportal.uio.no/>;Bioportal;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.brainvoyager.com/products/brainvoyagerqx.html>;BVQX;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.bristol.ac.uk/cmm/software/realcom>;REALCOM-IMPUTE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.bristol.ac.uk/cmm/software/runmlwin>;runmlwin;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.broadinstitute.org/rna-seqc>;RNA-SeQC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.broadinstitute.org/scientific-community/science/projects/viral-genomics/v-phaser-2>;V-Phaser;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.brylinski.org/ematchsite>;eMatchSite;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cbs.dtu.dk/services/MuPeXI>;MuPeXI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cbs.dtu.dk/services/NetMHCpan>;NetMHCpan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cbs.dtu.dk/services/SignalP>;SignalP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cellxpress.org/>;cellXpress;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cgbayesnets.com/>;CGBayesNets;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.cgl.ucsf.edu/chimera>;Chimera;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.conoserver.org/>;ConoMass;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.csbio.unc.edu/rs>;RNA-Skim;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cse.lehigh.edu/~chen/software.htm>;VASP-E;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.cytobank.org/>;Cytobank;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.die.upm.es/im/archives/DCEurLAB>;DCE@urLAB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.dissect.ed.ac.uk/>;DISSECT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ebi.ac.uk/thornton-srv/software/PoreWalker>;PoreWalker;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html>;voicebox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.ensembl.org/>;Ensembl;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.euroqol.org/eq-5d-products/eq-5d-5l.html>;EQ-5D calculator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.fieldgenetics.com/pages/aboutCervus_Overview.jsp>;Cervus;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.figurej.org/>;FigureJ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.funrich.org/>;FunRich;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.github.com/FragIt>;FragIt;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.gqinnovationcenter.com/services/bioinformatics/flexarray>;FlexArray;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.haplotype-reference-consortium.org/>;HRC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.haplotype-reference-consortium.org/>;Haplotype Reference Consortium;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ibmh.msk.su/PASS>;PASS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ibmh.msk.su/PASS>;Prediction of Activity Spectra for Substances;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ifi.uio.no/bioinf/Projects/ASCAT>;ASCAT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.imperial.ac.uk/people/l.coin>;cnvHap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.inxightfedsys.com/pdfs/LinguistX_FinalWeb.pdf>;Inxight;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.iop.kcl.ac.uk/IoP/Departments/PsychMed/GEpiBSt/software.stm>;GENECOUNTING;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.korbel.embl.de/software.html>;DELLY;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.ledalab.de/>;Ledalab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.lillo.org.ar/phylogeny/VIP>;VIP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.macvide.com/Macvide_FlashVideo_Converter>;MacVide;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.medyan.org/>;MEDYAN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.mh-hannover.de/kliniken/radiologie/str_04.html>;CT-Expo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.microrna.org/>;microRNA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.mtifwb.com/>;RIU;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.neuroexplorer.com/>;NeuroExplorer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.nitrc.org/projects/conn>;CONN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.novocraft.com/products/novoalign>;Novoalign;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.nrp.ac.uk/nrp-strategic-alliances/elsa/software/microchecker/>;MICRO-CHECKER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.nrp.ac.uk/nrp-strategic-alliances/elsa/software/microchecker/>;MICROCHECKER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.oege.org/software/cubex>;CubeX;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.okazolab.com/>;EventIDE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.optflux.org/>;Optflux;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.optflux.org/cbfa>;CBFA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.phagocytes.ca/miisr>;MIiSR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.phosphortholog.com/>;PhosphOrtholog;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.pristionchus.org/3CPrimerDesign>;3PD;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.purl.oclc.org/estimates>;EstimateS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.restfmri.net/forum/REST_V1.8>;REST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.rummlab.com.au/>;RUMM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.sdmtoolbox.org/>;SDMtoolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.singlecaseresearch.org/calculators/pabak-os>;PABAK-OS calculator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.softberry.com/berry.phtml>;FGENESB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.spatialecology.com/gme>;geo-spatial modeling environment;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.spatialecology.com/htools>;Hawth's analysis tools for ArcGis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.sph.umich.edu/csg/abecasis/Merlin>;MERLIN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.talairach.org/daemon.html>;Tailarach Daemon;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.talairach.org/daemon.html>;Talairach Daemon;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.techilatechnologies.com/>;Techila Technologies;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.thomaskoenig.ch/index.php/software/mapwin>;MapWin;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.touptek.com/product/showproduct.php?lang=en&id=103>;ToupView;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.transportmodel.eu/>;TRANS-TOOLS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.treedyn.org/>;TreeDyn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ub.edu/dnasp>;DNAsp;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ub.edu/dnasp>;DnaSP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.umass.edu/landeco/research/fragstats/fragstats.html>;Fragstats;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.ut-radiology.umin.jp/people/masutani/dTV/dTV_frame-e.htm>;DTV.II SR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.vcclab.org/lab/alogps>;Alogps;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.viewpoint.fr/en/p/software/videotrack>;VideoTrack;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.vislab.ucl.ac.uk/cogent.php>;Cogent;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.vislab.ucl.ac.uk/cogent_2000.php>;Cogent 2000;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.volume-one.org/>;Volume 1;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.vsh.com/products/mflt>;ModFit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www.wakayama-u.ac.jp/~kawahara/STRAIGHTdemo>;STRAIGHT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www.zeiss.com/microscopy/int/products/microscope-software/axiovision>;Axio Vision;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www0.cs.ucl.ac.uk/staff/g.ridgway/vbm/get_totals.m>;get_totals;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://www1.montpellier.inra.fr/CBGP/diyabc>;DIYABC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www1.montpellier.inra.fr/CBGP/software/Bottleneck/bottleneck.html>;BOTTLENECK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www1.montpellier.inra.fr/CBGP/software/Bottleneck/bottleneck.html>;Bottleneck;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www2.umdnj.edu/lilabweb/publications/AccuTyping.html>;AccuTyping;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www3.psych.purdue.edu/~willia55/Announce/cyberball.htm>;Cyberball;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://www4a.biotec.or.th/GI/tools/metasel>;MetaSel;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<http://wwwold.fi.isc.cnr.it/users/thomas.kreuz/sourcecode.html>;SPIKE-dist;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<http://zhoulab.usc.edu/Hi-Corrector>;Hi-Corrector;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://EconPapers.repec.org/RePEc:boc:bocode:s457279>;ZSCORE06;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://actigraphcorp.com/support/software/actilife>;ActiLife;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://afni.nimh.nih.gov/Suma>;SUMA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dBandpass.html>;3dBandpass;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dClustSim.html>;3dClustsim;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDeconvolve.html>;3dDeconvolve;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDespike.html>;3dDespike;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDetrend.html>;3dDetrend;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dFDR.html>;3dFDR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dFWHMx.html>;3dFWHMx;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dmaskave.html>;3dmaskave;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dttest++.html>;3dttest+ +;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/MapIcosahedron.html>;MapIcosahedron;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://afni.nimh.nih.gov/pub/dist/doc/program_help/waver.html>;waver;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://agenabio.com/products/massarray-system>;MassARRAY Assay Design;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://agenabio.com/products/massarray-system>;MassARRAY Typer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://alkesgroup.broadinstitute.org/BOLT-LMM>;BOLT-LMM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://amaral.northwestern.edu/resources/software/netcarto>;netcarto;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://ambermd.org/AmberTools.php>;AMBERTOOLS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://anaconda.org/bioconda/pycluster>;Pycluster;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://apps.cytoscape.org/apps/cluego>;ClueGO;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://apps.cytoscape.org/apps/clustermaker>;clusterMaker;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://apps.cytoscape.org/apps/reactomefis>;Reactome;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://atgu.mgh.harvard.edu/plinkseq>;PLINK/SEQ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://beast.community/>;BEAST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://beast.community/logcombiner>;LogCombiner;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://bioconductor.org/>;Bioconductor;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/ChAMP>;ChAMP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/DESeq>;DESeq;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/DESeq2>;DESeq2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/DriverNet>;DriverNet;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/FunciSNP>;FunciSNP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/GeneOverlap>;GeneOverlap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/MSstats>;MSstats;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/Rhtslib>;Rhtslib;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/SomaticSignatures>;SomaticSignatures;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/edgeR>;edgeR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/hgu95av2>;hgu95av2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/hu6800.db>;hu6800;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/illuminaio>;illuminaio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/scPipe>;scPipe;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioconductor.org/packages/tximport>;tximport;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bioinfogp.cnb.csic.es/tools/venny>;Venny;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://bioinformatics.mdanderson.org/public-software/tanric>;TANRIC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://biology-assets.anu.edu.au/GenAlEx>;GenAlEx;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://bitbucket.org/ipk_bit_team/bioescorte-suggestion>;LAILAPS-QSM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://bitbucket.org/tguenther/read>;READ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://bmsr.usc.edu/software/adapt>;ADAPT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://bruker-daltonics-biotools.software.informer.com/3.0>;BioTools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cadd.gs.washington.edu/>;CADD;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cadd.gs.washington.edu/>;Combined Annotation Dependent Depletion;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cbr.jic.ac.uk/threadmapper>;THREaD Mapper Studio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cibersort.stanford.edu/>;CIBERSORT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://code.google.com/archive/p/lagrange>;LAGRANGE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://code.google.com/archive/p/quickpalm>;QuickPALM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://compumedicsneuroscan.com/tag/scan>;Scan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cran.r-project.org/package=Amelia>;AmeliaView;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=Epi>;Epi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=MCMCglmm>;MCMCglmm;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=OptimalCutpoints>;OptimalCutpoints;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=R2WinBUGS>;R2WinBUGS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=ROCR>;ROCR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=Rcpp>;Rcpp;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=Rtsne>;Rtsne;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=aLFQ>;aLFQ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=bipartite>;bipartite;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=bnlearn>;bnlearn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=boot>;boot;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=bootES>;BootES;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=car>;car;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=caret>;caret;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=clam>;clam;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=dcGOR>;dcGOR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=dismo>;dismo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=dlnm>;dlnm;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=eRm>;eRM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=epiR>;EpiR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=epitools>;EpiTools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cran.r-project.org/package=fmsb>;fmsb;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=gdata>;gdata;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=glmnet>;glmnet;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=gplots>;gplots;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=gtools>;gtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=h2o>;H2O R interface;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=irr>;irr;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=lattice>;lattice;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=lme4>;lme4;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=ltm>;ltm;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=mRMRe>;mRMRe;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=mclust>;adjustedRandIndex;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=mgcv>;mgcv;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=mice>;Mice;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=mice>;mice;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=mitml>;mitml;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=nlme>;nlme;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=ordinal>;ordinal;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=pROC>;pROC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=plotrix>;plotrix;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=psych>;psych;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=qtl>;R/Qtl;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=quantregForest>;quantregForest;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=raster>;raster;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=rgdal>;rgdal;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=rioja>;rioja;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=rjags>;rjags;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=rms>;rms;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=rpart>;rpart;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=rstan>;Rstan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cran.r-project.org/package=sensitivity>;sensitivity;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=sourceR>;sourceR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=survC1>;survC1;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=survival>;survival;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=survminer>;survminer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=tidyr>;tidyr;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/package=tnet>;tnet;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://cran.r-project.org/package=vegan>;Vegan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/src/contrib/Archive/gtx>;GTX;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://cran.r-project.org/src/contrib/Archive/mixer>;Mixer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://dataanalysis.qiagen.com/pcr/documents/RT2ProfilerDataAnalysisHandbook.pdf>;RT2 Profiler PCR Array Data analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://david.ncifcrf.gov/content.jsp?file=functional_annotation.html>;Functional Annotation Tool;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://dceg.cancer.gov/tools/design/pga>;PGA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#PerformingAnalysisWithSpatialAnalyst.htm>;Spatial Analyst;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa>;Ingenuity Pathway Analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://doi.org/10.1016/j.neuroimage.2009.09.069>;Learning Embeddings Atlas Propagation;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://doi.org/10.1016/j.neuroimage.2010.12.012>;SAMSCo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://doi.org/10.1086/590395>;REGRESSIONv2.m;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://doi.org/10.1093/bioinformatics/btp497>;GRIMP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://doi.org/10.1093/bioinformatics/bts015>;gpu-lasso;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://doi.org/10.1186%2F2049-2618-1-6>;CloVR-ITS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://doi.org/10.1371/journal.pntd.0006490.s001>;RabiesEcon;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://doi.org/10.25386/genetics.10266425>;CNVmap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://droog.gs.washington.edu/polyphred>;PolyPhred;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://enketo.org/>;Enketo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://eprint.ncl.ac.uk/6053>;C2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://faculty.washington.edu/browning/beagle/beagle.html>;BEAGLE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://faculty.washington.edu/wijsman/software.shtml>;PBAP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://faculty.washington.edu/wijsman/software.shtml>;Pedigree-Based Analysis Pipeline;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/DualRegression>;dual regression;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FAST>;FMRIB's Automated Segmentation Tool;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT>;FDT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT>;FMRIBâ€™s Diffusion Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FIRST>;FMRIBâ€™s Integrated Registration and Segmentation Tool;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FIX>;FMRIB's ICA-based X-noiseifier;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FLIRT>;FLIRT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT>;FNIRT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM>;FSL-VBM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLVBM>;VBM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView>;FSLView;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MELODIC>;MELODIC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MELODIC>;Multivariate Exploratory Linear Optimized Decomposition into Independent Components;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Randomise>;threshold-free cluster enhancement;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS>;TBSS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS>;tract-based spatial statistics;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://gaow.github.io/genetic-analysis-software/1/2ld>;2LD;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://gaow.github.io/genetic-analysis-software/c/clump>;CLUMP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://gatk.broadinstitute.org/>;Genome Analysis Toolkit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://gazeintelligence.com/smi-software-download>;BeGaze;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://genome.unc.edu/las>;LAS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://genorm.cmgg.be/>;GeNorm;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com//bionomicron/Redirector.git>;Redirector;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/ANTsX/ANTs>;Advanced Normalization Tools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/Amber-MD/cpptraj>;CPPTRAJ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/BrainDynamicsUSYD/nftsim>;NFTsim;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/COMBINE-lab/Salmon>;Salmon;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/CellProfiler>;CellProfiler;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/Chaste/Chaste>;Chaste;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/DReichLab/EIG>;SMARTPCA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/FelixKrueger/TrimGalore>;Trim Galore!;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/Grice-Lab/AlignerBoost>;AlignerBoost;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/Insubric/fire-calculator>;Fire Weather Indices Calculator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/LLNL/sundials>;SUNDIALS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/MathCancer/PhysiCell>;PhysiCell;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/PacificBiosciences/blasr>;BLASR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/PathVisio/PathVisioRPC>;PathVisioRPC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/PyMVPA/PyMVPA>;PyMVPA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/RuleWorld/bionetgen>;BioNetGen;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/Taming-the-BEAST/SCOTTI-Tutorial>;SCOTTI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/UcarLab/QuIN>;QuIN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/Washington-University/HCPpipelines/tree/master/MSMAll>;MSM-All;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/andrewssobral/tensor_toolbox>;Tensor Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/arq5x/bedtools2>;BEDTools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/arq5x/bedtools2>;bedtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/arq5x/gemini>;GEMINI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/batxes/4Cin>;4Cin;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/broadinstitute/picard>;Picard;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/brwnj/bcl2fastq>;bcl2fastq2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/bwallace/OpenMeta-analyst->;Open Meta-Analyst;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/choderalab/ensembler>;Ensembler;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/christbald/magpie>;MAGPIE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/cit-bioinfo/consensusMIBC>;consensus MIBC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/cole-trapnell-lab/cufflinks>;Cufflinks;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/danlwarren/ENMTools>;ENMtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/dcm4che/dcm4chee-arc-light/>;dcm4chee;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/ddarriba/modeltest>;MODELTEST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/ddarriba/modeltest>;Modeltest;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/ding-lab/msisensor>;MSIsensor;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/encore-similarity/encore>;ENCORE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/etal/cnvkit>;CNVkit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/gburleigh/MatrixConverter>;MatrixConverter;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/genome/bam-readcount>;bam-readcount;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/gilbertbigras/Ki67>;Ki67 Vv;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/guigolab/ggsashimi>;ggsashimi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/h2oai/h2o-3/tree/master/h2o-r/ensemble>;h2oEnsemble;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/hddm-devs/hddm>;HDDM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/hmgu-itg/metacarpa>;METACARPA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/htseq/htseq>;HTSeq;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/ijpb/MorphoLibJ>;MorphoLibJ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/joblib/joblib>;joblib;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/kingsfordgroup/sailfish>;Sailfish;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/krm15/ACME>;ACME;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/lh3/bwa>;BWA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/lh3/bwa>;BWA-MEM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/librosa/librosa>;Librosa;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/lumiratos/mafco>;MAFCO;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/marcelm/cutadapt>;cutadapt;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/mikessh/mageri>;MAGERI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/mikessh/vdjtools>;VDJtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/mlbendall/telescope>;Telescope;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/myourshaw/vax>;VAX;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/najoshi/sickle>;sickle;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/ncbi/pgap>;Prokaryotic Genomes Automatic Annotation Pipeline;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/opencobra/cobrapy>;COBRApy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/pdollar/toolbox/blob/master/videos/behaviorAnnotator.m>;Behavior Annotator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/phoenixding/idrem>;iDREM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/phoenixding/idrem>;interactive DREM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/rajewsky-lab/mirdeep2>;Mirdeep2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/rambaut/figtree>;Fig Tree;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/reedacartwright/spagedi>;SPAGeDI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/rmcelreath/rethinking/blob/master/R/map2stan.r>;map2stan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/rrueedi/metabomatching>;Metabomatching;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/ruolin/strawberry>;Strawberry;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/samtools/bcftools>;BCFtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/sanger-pathogens/Artemis>;Artemis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/sbrg/cobrame>;COBRAme;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/sccn/eeglab>;EEGLAB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/scimemia/M-Track>;M-Track;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/translationalneuromodeling/tapas>;TAPAS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/ufz/cvode>;CVODE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/usadellab/Trimmomatic>;Trimmomatic;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/veg/datamonkey-js>;Datamonkey;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/veg/idepi>;IDEPI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/vhsvhs/phylobot-django>;PhyloBot;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/wmayner/pyphi>;PyPhi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/wmayner/pyphi>;PyPhi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/wmayner/pyphi>;PyPi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://github.com/wmayner/pyphi>;PyPi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://github.com/zeeev/wham>;Wham;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://gvs.gs.washington.edu/GVS150>;Genome Variation Server;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://hydra.usc.edu/gxe>;Quanto;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://ideas.repec.org/c/boc/bocode/s446201.html>;metareg;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://ideas.repec.org/c/boc/bocode/s446602.html>;ICE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://ideas.repec.org/c/boc/bocode/s446602.html>;ice;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://ideas.repec.org/c/boc/bocode/s457354.html>;punafcc;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://imaris.oxinst.com/>;IMARIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://imaris.oxinst.com/>;Imaris;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://jexpress.bioinfo.no/site>;J-Express;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://jp.support.illumina.com/sequencing/sequencing_software/real-time_analysis_rta.html>;RTA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://kim.bio.upenn.edu/software/pivot.shtml>;PIVOT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://kimura.univ-montp2.fr/%7Erousset/Genepop.htm>;GENEPOP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html>;SHAPEITv;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html>;SNPTEST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://mathgen.stats.ox.ac.uk/impute/impute_v2.html>;IMPUTE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://mathworks.com/products/curvefitting.html>;Curve Fitting Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://mathworks.com/products/image-acquisition.html>;Image Acquisition Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://mathworks.com/products/image.html>;Image Processing Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://mathworks.com/products/statistics.html>;Statistical Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://mathworks.com/products/statistics.html>;statistics toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://mitsar-eeg.com/eeg-system-solutions/wineeg-research-software>;WinEEG;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://moleculardevices.com/products/axon-patch-clamp-system/acquisition-and-analysis-software/pclamp-software-suite>;pCLAMP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://moleculardevices.com/products/axon-patch-clamp-system/acquisition-and-analysis-software/pclamp-software-suite>;pClamp;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://neuro.debian.net/>;NeuroDebian;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://neurometrika.org/node/34>;DARTEL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://neurometrika.org/node/34>;Diffeomorphic Anatomical Registration Through Exponentiated Lie Algebra;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://neurometrika.org/node/34>;diffeomorphic anatomical registration through the exponentiated Lie algebra;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://palaeo-electronica.org/2001_1/past/issue1_01.htm>;PAST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://people.virginia.edu/~wc9c/KING>;KING;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://perso.unifr.ch/roberto.caldara/index.php?page=3>;iMap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://peterbeerli.com/migrate-html5>;migrate;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://phylopythias.bifo.helmholtz-hzi.de/>;PhylopythiaS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/an-overview-of-the-spatial-statistics-toolbox.htm>;Spatial Statistics;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://proteomics.broadinstitute.org/>;Spectrum Mill;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://pstnet.com/products/e-prime>;E-Prime;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://pypi.org/project/nilearn>;Nilearn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://pypi.org/project/psamm>;PSAMM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://pypi.org/project/pycdf>;Pycdf;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://pypi.org/project/pyradiomics>;PyRadiomics;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://rast.nmpdr.org/>;Rapid Annotation using Subsystem Technology;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://remoteproctor.com/>;Remote Proctor Now;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://rome.phri.ca/files/idatafax>;iDataFax;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://rosenberglab.stanford.edu/clumpp.html>;CLUMPP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://rosenberglab.stanford.edu/distruct.html>;DISTRUCT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sbalzarini-lab.org/?q=downloads/stochastic_chemical_net>;pSSAlib;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://scholar.princeton.edu/gitailab/psicic>;PSICIC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sciex.com/products/software/analyst-software>;Analyst;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sift.bii.a-star.edu.sg/>;Sift;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sites.google.com/a/wolkon.com/gps-sample>;GPS Sample;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sites.google.com/site/bctnet>;Brain Connectivity Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://sites.google.com/site/fukunagatsu/software/capr>;CapR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sites.google.com/site/mtphyl>;mtPhyl;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sites.google.com/site/neuromapsoftware>;NeuroMap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sites.stat.washington.edu/thompson/Genepi/MORGAN/Morgan.shtml>;MORGAN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://snp.gs.washington.edu/SeattleSeqAnnotation>;Seattle Seq;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://softgenetics.com/mutationSurveyor.php>;Mutation Surveyor;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://software.broadinstitute.org/cancer/cga/mutect>;MuTect;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://software.broadinstitute.org/cancer/cga/polysolver>;Polysolver;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sourceforge.net/projects/andestools>;ANDES;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sourceforge.net/projects/ibdws>;IBDWS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sourceforge.net/projects/ihcprofiler>;IHC Profiler;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://sourceforge.net/projects/ihcprofiler>;IHC profiler;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://sourceforge.net/projects/matcont>;MatCont;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://sourceforge.net/projects/skewer>;skewer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://statgen.bitbucket.io/xhmm>;XHMM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://stella-emu.github.io/>;Stella;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://support.illumina.com/sequencing/sequencing_software/igenome.html>;iGenomes;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://tgvaughan.github.io/MultiTypeTree>;MultiTypeTree;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://tlocoh.r-forge.r-project.org/>;T-LoCoH;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://tools.thermofisher.com/content/sfs/brochures/D01575~.pdf>;iTeva;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://tools.thermofisher.com/content/sfs/brochures/cms_039770.pdf>;Genescan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://toppgene.cchmc.org/enrichment.jsp>;ToppFun;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://training.cochrane.org/online-learning/core-software-cochrane-reviews/revman>;Review Manager;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://users.fmrib.ox.ac.uk/~behrens/fdt_docs/fdt_dtifit.html>;DTIFit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://visiopharm.com/>;Visiopharm;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://vpixx.com/>;VPixx;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://web.stanford.edu/group/pritchardlab/structure.html>;Structure;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.3ds.com/products-services/biovia/products/data-science/biovia-insight>;InsightII;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.acsu.buffalo.edu/~yijunsun/lab/ESPRIT-Forest.html>;ESPRIT-Forest;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.adaptivebiotech.com/immunoseq>;immunoSEQ Analyzer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.agilent.com/en/product/automated-electrophoresis/bioanalyzer-systems>;Bioanalyzer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-acquisition/acquisition-for-lc-ms>;MassHunter Acquisition;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/mass-profiler-professional-software>;Mass Profiler Professional;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.agilent.com/en/product/software-informatics/mass-spectrometry-software/data-analysis/qualitative-analysis>;MassHunter Qualitative Analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.altmetric.com/products/free-tools/bookmarklet>;Altmetric;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.andrew.cmu.edu/user/bjones>;traj;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.ansys.com/products/fluids>;CFD;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.arb-silva.de/aligner>;SILVA SINA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.attivio.com/>;Attivio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bdbiosciences.com/en-us/instruments/research-instruments/research-software/flow-cytometry-acquisition/facsdiva-software>;BD FACSDiva;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bdbiosciences.com/en-us/instruments/research-instruments/research-software/flow-cytometry-acquisition/facsuite-software>;FACSuite;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.beast2.org/treeannotator>;TreeAnnotator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/en-de/product/image-lab-software?ID=KRE6P5E8Z>;Image Lab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/en-de/product/image-lab-software?ID=KRE6P5E8Z>;Image lab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/en-de/product/myiq2-two-color-real-time-pcr-detection-system>;MyIQ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/en-de/product/quantity-one-1-d-analysis-software>;Quantity One;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/en-de/sku/1709753-iq5-optical-system-software>;iQ5 Optical system;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/en-us/product/bio-plex-manager-software-standard-edition>;Bioplex Manager;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bio-rad.com/webroot/web/pdf/lsr/literature/Bulletin_5400.pdf>;ProteomeWeaver;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bioconductor.org/packages/RTN>;RTN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.bioconductor.org/packages/edge>;edge;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.bioconductor.org/packages/survcomp>;survcomp;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.biodiscovery.com/imagene>;ImaGene;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.biopac.com/product/acqknowledge-software>;AcqKnowledge;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.brainproducts.com/downloads.php?kid=2>;Brain Vision Recorder;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.brainproducts.com/downloads.php?kid=9>;Brain Vision Analyzer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.broadinstitute.org/birdsuite>;Birdseye;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bruker.com/de/products-and-solutions/mr/nmr-software/topspin.html>;TopSpin;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bruker.com/en/products-and-solutions/mass-spectrometry/maldi-tof/autoflex-max.html>;Flex Analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.bruker.com/en/services/training/magnetic-resonance/nmr-trainings/germany-switzerland/amix-software.html>;AMIX;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.chem.gla.ac.uk/~louis/software/ortep>;ORTEP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.chenomx.com/>;Chenomx;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.cloudresearch.com/>;TurkPrime;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.combosyn.com/>;CompuSyn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.cortechs.ai/products/neuroquant>;NeuroQuant;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.cytivalifesciences.com/imagingsoftware>;ImageQuant TL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.datasci.com/products/software/dataquest-art>;Dataquest;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.dcm4che.org/>;dcm4che;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.emka.fr/product/iox2-software>;Iox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.ensembl.org/info/docs/tools/vep>;Variant Effect Predictor;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.experimetrix.com/>;Experimetrix;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.fei.com/software/visilog>;Visilog;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.fil.ion.ucl.ac.uk/spm/toolbox/fieldmap>;Fieldmap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.fluxus-engineering.com/sharenet.htm>;Network;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.fon.hum.uva.nl/praat/manual/Articulatory_synthesis.html>;articulatory synthesizer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.fz-juelich.de/inm/inm-1/DE/Forschung/_docs/SPMAnatomyToolbox/SPMAnatomyToolbox_node.html>;Anatomy atlas;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.fz-juelich.de/inm/inm-1/DE/Forschung/_docs/SPMAnatomyToolbox/SPMAnatomyToolbox_node.html>;SPM anatomy toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.gabamrs.com/>;Gannet;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.gsea-msigdb.org/gsea/index.jsp>;GSEA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.guimaraes.bio.br/soft.html>;Aninhado;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp>;CCS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.heka.com/downloads/downloads_main.html#down_patchmaster>;Patchmaster;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.hyphy.org/>;HyPhy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.ibm.com/products/spss-advanced-statistics>;Advanced Model;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.ibm.com/products/spss-complex-samples>;Complex Samples;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.ibm.com/products/spss-complex-samples>;Complex samples;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.ibm.com/products/structural-equation-modeling-sem>;AMOS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.icrea.cat/Web/OtherSectionViewer.aspx?key=485&titol=Software:Qxpak>;qxpak;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.illumina.com/Documents/products/datasheets/datasheet_beadstudio.pdf>;BeadStudio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.illumina.com/Documents/products/technotes/technote_gencall_data_analysis_software.pdf>;GenCall;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.illumina.com/techniques/microarrays/array-data-analysis-experimental-design/genomestudio.html>;GenomeStudio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.imsc.res.in/~rsidd/phylogibbs>;PhyloGibbs;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.imsc.res.in/~rsidd/phylogibbs-mp>;PhyloGibbs-MP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.ittvis.com/idl>;IDL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.ittvis.com/idlvm>;IDL Virtual Machine;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.jurgott.org/linkage/SLINK.htm>;SLINK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.jwatcher.ucla.edu/>;JWatcher;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.kubios.com/>;Kubios HRV;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.l3harrisgeospatial.com/Software-Technology/ENVI>;ENVI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.labtools.us/sequence-scanner>;Sequence Scanner;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.leica-microsystems.com/products/microscope-software/p/leica-application-suite>;LAS AF;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.leica-microsystems.com/products/microscope-software/p/leica-application-suite>;Leica Application Suite Advanced Fluorescence;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.leica-microsystems.com/products/microscope-software/p/leica-las-x-ls>;LAS X;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.luminexcorp.com/luminex-100200>;Luminex 100 â„¢ IS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.mbfbioscience.com/stereo-investigator>;Stereo investigator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.med-associates.com/med-pc-v/>;Med-PC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.mediacy.com/imageproplus>;Image-Pro Plus;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.medizin.uni-tuebingen.de/das-klinikum/einrichtungen/kliniken/kinderklinik/kinderheilkunde-iii/forschung-iii/software>;LI-toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.meta-analysis.com/>;Comprehensive Meta-Analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.micropticsl.com/products/sperm-class-analyzer-casa-system>;Sperm Class Analyzer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.microscope.healthcare.nikon.com/products/software/nis-elements>;NIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.microscope.healthcare.nikon.com/products/software/nis-elements>;NIS-Elements;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.microsoft.com/download/details.aspx?id=21>;NET;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.millisecond.com/>;Inquisit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.mindmedia.com/downloads>;Biotrace;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.mindmedia.com/losungen/qeeg/sloreta>;sLORETA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.moleculardevices.com/products/additional-products/genepix-microarray-systems-scanners>;GenePix;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.moleculardevices.com/products/additional-products/genepix-microarray-systems-scanners>;Genepix Pro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.moleculardevices.com/products/cellular-imaging-systems/acquisition-and-analysis-software/metamorph-microscopy>;MetaMorph;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.moleculardevices.com/products/cellular-imaging-systems/acquisition-and-analysis-software/metamorph-microscopy>;Metamorph;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.montana.edu/kalinowski/software/ml-relate>;MLRELATE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.motic.com/As_microscope_software_a/product_236.html>;Digilab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.mrcholland.com/technology/software/coffalyser-net>;Coffalyser.NET;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.msg.chem.iastate.edu/gamess>;GAMESS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#bewith>;BeWith;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.ncbi.nlm.nih.gov/tools/primer-blast>;Primer-BLAST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.neurobs.com/menu_presentation/menu_features/features_overview>;Presentation;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/artifact_detect>;ART;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.nitrc.org/projects/isc-toolbox>;ISC-toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/mach2qtl>;Mach2QTL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/mricron>;Mricron;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/nirs_spm>;NIRS_SPM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.nitrc.org/projects/wfu_pickatlas>;Pickatlas;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/wfu_pickatlas>;WFU pickatlas;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/wfu_pickatlas>;WFU-Pickatlas;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/wfu_pickatlas>;WFU-pick atlas;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nitrc.org/projects/wfu_pickatlas>;Wake Forest University PickAtlas;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.noldus.com/ethovision-xt>;EthoVision;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.noldus.com/ethovision-xt>;Ethovision;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.nucleics.com/DNA_sequencing_support/Trace_viewer_reviews/BioEdit>;BioEdit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.oculus.de/produkte/topographie/keratograph-5m/keratograph-5m>;R-Scan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.olympus-lifescience.com/software/cellsens>;cellSens Dimension;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.pacb.com/products-and-services/analytical-software/smrt-analysis>;SMRT analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.partek.com/partek-genomics-suite>;Genomics Suite;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.partek.com/partek-genomics-suite>;Partek;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.pbarrett.net/Bootstrap/Bootstrap.html>;Bootstrap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.pbarrett.net/Gower/Gower.html>;Gower;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.pharmacompass.com/pdf/party/content/omnicomm-systems-inc-party-content-1496916964.pdf>;Promasys;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.phi.com/surface-analysis-equipment/system-software/multipak-data-reduction-software.html>;MultiPak;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.platonsoft.nl/platon>;PLATON;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.processmacro.org/>;PROCESS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.proctoru.com/>;ProctorU;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.psb.ugent.be/cbd/papers/BiNGO/Home.html>;BiNGO;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.qbaseplus.com/>;Qbase+;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.qbaseplus.com/>;qBase;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.qiagen.com/us/products/discovery-and-translational-research/epigenetics/dna-methylation/methylation-specific-pcr/rotor-gene-q>;Rotor-Gene Q;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.quanser.com/products/quarc-real-time-control-software>;Quarc;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.questionpro.de/>;Questionpro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.rigaku.com/downloads/software/crystalclear>;CrystalClear;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.rogue-research.com/tms/brainsight-tms>;Brainsight;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.sartorius.com/en/products/process-analytical-technology/data-analytics-software/mvda-software/simca>;SIMCA-P;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.solidworks.com/product/solidworks-3d-cad>;CAD;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.sr-research.com/data-viewer>;EyeLink Data Viewer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.sr-research.com/experiment-builder>;Experiment Builder;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.statisticalinnovations.com/latent-gold>;LatentGold;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.statistix.com/>;Satistix;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.statmodel.com/>;Mplus;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.tdt.com/component/opensorter>;Open sorter;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.tdt.com/docs/synapse/gizmos/pca-spike-sorting>;principal component analysis spike sorter;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.tedia.eu/products/sw-scopewin.html>;ScopeWin;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.textronsystems.com/products/lidar-analyst>;LiDAR Analyst;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.theppinetwork.com/>;PPI Network;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.thermofisher.com/order/catalog/product/4381867#/4381867>;Peakscanner;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.thermofisher.com/order/catalog/product/4474978>;SeqScape;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.thermofisher.com/order/catalog/product/CHROMELEON7#/CHROMELEON7>;Chromeleon;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.thermofisher.com/order/catalog/product/OPTON-30965#/OPTON-30965>;Xcalibur;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.tse-systems.com/product-details/videomot2>;Videomot;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.va.gov/vdl/documents/Clinical/Comp_Patient_Recrd_Sys_(CPRS)/cprsguium.pdf>;VA Computerized Patient Record System;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.verisk.com/archived/2011/verisk-health-s-dxcg-risk-solutions-technology-ready-to-support-industry-adoption-of-icd-10-cm>;Sightlines DxCG Risk Solutions;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q101554882>;Soscisurvey;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1026367>;Scikit-learn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q1026367>;scikit-learn;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q104854189>;dplyr;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q106381184>;RevMan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q106382290>;SurveyMonkey;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q10920783>;MrBayes;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q11239942>;Primer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q11255>;Office;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q11261>;Word;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q11266>;PowerPoint;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q11272>;Excel;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1129895>;Java Advanced Imaging;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q11368>;Unix;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q11393>;VirtualBox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1153889>;DIVA-GIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q115494>;Waikato Environment for Knowledge Analysis;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1161680>;JMP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1204300>;Stata;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1235617>;Photofiltre;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1243769>;Quicktime;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1258962>;MAXQDA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1258962>;MaxQDA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q129793>;Photoshop;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1301762>;OsiriX;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1307239>;OriginLab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1307239>;OriginPro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1329181>;QGIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1340244>;Endnote;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q134067>;Visual Studio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1355082>;Prism;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q13574543>;Igor Pro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q13574543>;Igor pro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1373457>;PyMOL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1406>;Windows;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q14116>;Mac;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q1471909>;Minitab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1504505>;Java JRE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1504505>;Java Runtime Environment;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1575>;Internet Explorer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q15777>;C;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q1635410>;NLTK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q165277>;OpenCV;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q165658>;Flash;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1659584>;ImageJ;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q16691>;OpenSUSE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q169478>;MATLAB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q16975296>;PathVisio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q17029600>;I-TASSER;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q17042611>;NCSS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q17054505>;Google Cloud;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q17085079>;Stan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1726452>;MASCOT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1788435>;Statistica;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q178940>;g++;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q178940>;gcc;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1797907>;Land Cover Classification System;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q181596>;SPSS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q18215965>;Psychophysics Toolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q18215965>;Psychtoolbox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q18359288>;PLINK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q18387989>;TargetScan;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q18411871>;G*Power;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q188531>;Objective-C;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q190478>;Ruby on Rails;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q1913760>;MaxEnt;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q1913760>;Maxent;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q193321>;Java Virtual Machine;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q197492>;SciPy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q197520>;NumPy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q2003932>;SAS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2005>;JavaScript;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q201904>;Qt;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2038919>;OpenSim;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2066865>;ProtÃ©gÃ©;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q206904>;R;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q207902>;Acrobat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2086703>;CRAN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q21207>;Windows Mobile;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q21447895>;TensorFlow;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q215016>;Illustrator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q215273>;RHEL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q216293>;Pong;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q21850561>;TopHat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q21850561>;Tophat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q220182>;Linux Red Hat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q230036>;jQuery;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q234657>;Actionscript;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q2363545>;FreeSurfer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2370>;C#;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q2378>;Visual Basic;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q2383032>;Chemistry Development Kit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q23992212>;NeuroSynth;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2407>;C++;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q24451405>;R Studio;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2493781>;Bitbucket;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q25099639>;Mothur;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q25099639>;mothur;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q251>;Java;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q258956>;SPLITSTREE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q25931876>;Scion image;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2601695>;Epi Info;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q26229866>;JASP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q28444600>;BioMart;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q28447694>;MOE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q286820>;BLAST;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q28865>;Python;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q28974859>;GATK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q2985668>;matplotlib;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q29876897>;CLC Genomic Workbench;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q30178153>;Genevestigator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q3047275>;InterPro;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q30593150>;SnpEff;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q326489>;ggplot2;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q3376999>;LISREL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q3478650>;Sente;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q3505312>;Surfer;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q35773>;Safari;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q3628244>;ATLAS.ti;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q364>;GitHub;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q3699942>;Cytoscape;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q3737246>;FSL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q378530>;Praat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q381>;Ubuntu;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q388>;Linux;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q4049465>;SigmaPlot;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q4118434>;BioPython;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q4118434>;Biopython;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q41566485>;SPM;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q41793788>;BrainVoyager;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q42274>;Google Earth;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q42478>;Perl;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q42979>;Basic;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q4654344>;AsReml;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q4692169>;ImpaxEE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q4751099>;AFNI;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q47519550>;GENELAND;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q47519550>;Geneland;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q47607>;SQL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q4784993>;ArcMap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q4792191>;Arlequin;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q48989793>;Skyline;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5013404>;ConQuest;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5014227>;CSPRO;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5025484>;CANTAB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5025484>;Cambridge Neuropsychological Test Automated Battery;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q507430>;Tomcat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q513297>;ArcGIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q51715613>;SHELXTL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5281973>;DS modeling;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5288>;tcl;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5382673>;EpiData;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5425748>;Fiji;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q5427149>;FSTAT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5427149>;Fstat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5462055>;FlowJo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5531616>;Geneious;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5533486>;Genome browser;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5535060>;GIS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5535060>;geographic information system;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q55641191>;NQuery Advisor;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5597064>;InStat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5597064>;Instat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q56291130>;Open Data Kit;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q5652128>;Haploview;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q576474>;GoldWave;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q576474>;Goldwave;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q580605>;GDAL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q595758>;MinGW-w64;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q616360>;tk;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q631011>;ArcView;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q6316598>;JAGS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q64189>;MapInfo Professional;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q64816680>;BrainStorm;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q667566>;VBA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q67141781>;FastQC;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q6715328>;MEGA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q6716702>;MLwiN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q6719088>;MUSCLE;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q67197176>;Netcdf;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q672307>;NetLogo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q681360>;OpenCL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q6862245>;Mimics;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q6955723>;Nvivo;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q698>;Firefox;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7002467>;NEURON;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7016954>;Newbler;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7095785>;OpenEpi;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7096535>;Openlab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7118292>;PAUP;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7118292>;PAUP*;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7256288>;PsychoPy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q7256288>;Psychopy;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q7265483>;Q-LAB;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7305527>;REDCap;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7307076>;Refworks;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7314104>;Reportlab;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.wikidata.org/wiki/Q733115>;Mechanical Turk;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q735748>;Pixelmator;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7388648>;SAMtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7388648>;samtools;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7394802>;Strand7;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7394951>;SUDAAN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q741303>;JDK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q746261>;LabVIEW;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q7512231>;SigmaStat;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7602967>;Statview;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7673435>;Tableau;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7715973>;Debian;<http://data.gesis.org/softwarekg/vocab/SoftwareType_OperatingSystem>
+<https://www.wikidata.org/wiki/Q777>;Chrome;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7864116>;Santa Cruz genome browser;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q7935239>;Virtuoso;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q8023586>;WinBugs;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q8046870>;Yahoo-BOSS;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q8046870>;Yahoo-BOSS API;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q80689>;Access;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q83303>;Fortran;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q838189>;GLPK;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q842014>;Django;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q847296>;Visual C++;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q850>;MySQL;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q85738947>;ANNOVAR;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q866737>;ClustalW;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q8811>;HTML;<http://data.gesis.org/softwarekg/vocab/SoftwareType_ProgrammingEnvironment>
+<https://www.wikidata.org/wiki/Q918>;Twitter;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wikidata.org/wiki/Q96075529>;Pajek;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.wildblueberrymedia.net/pcord>;PCORD;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.xlstat.com/>;XLSTAT;<http://data.gesis.org/softwarekg/vocab/SoftwareType_PlugIn>
+<https://www.york.ac.uk/computational-immunology/software/aspasia>;ASPASIA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.zeiss.de/mikroskopie/produkte/mikroskopsoftware/zen.html>;ZEN;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.zsl.org/science/software/coancestry>;COANCESTRY;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www.zsl.org/science/software/colony>;COLONY;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://www1.montpellier.inra.fr/CBGP/software/FreeNA>;FREENA;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://xcell.ucsf.edu/>;xCell;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>
+<https://xenabrowser.net/hub>;Xena;<http://data.gesis.org/softwarekg/vocab/SoftwareType_Application>

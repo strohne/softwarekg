@@ -30,13 +30,20 @@ library(npmi)
 #
 
 
-# We kept our data in a synced folder outside the repo.
+# We originally kept our data in a synced folder outside the repo.
 # Since paths depend on user & machine, we define them in settings.R.
 # Example content of settings.R:
 # path.root <- "C:/Users/Jakob/sciebo/Projekte/SoftwareKG/"
 # path.data <- paste0(path.root,"data/")
 # path.network <- paste0(path.root,"network/")
-source("settings.R")
+# path.results <- paste0(path.root,"results/")
+# source("settings.R")
+
+path.data <- "data/"
+path.network <- "network/"
+path.results <- "results/"
+
+
 
 kg_concepts <- read_csv2(paste0(path.data,"SoMeSci_concepts.csv")) 
 kg_mentions <- read_csv2(paste0(path.data,"SoMeSci_mentions.csv")) 

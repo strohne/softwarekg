@@ -1,0 +1,546 @@
+journal;concept;topconcept
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Molecular Biology;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Molecular Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computational Mathematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computational Mathematics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computational Mathematics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computer Science Applications;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computer Science Applications;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computer Science Applications;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Statistics and Probability;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Statistics and Probability;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Statistics and Probability;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computational Theory and Mathematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computational Theory and Mathematics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Computational Theory and Mathematics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Biochemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Biochemistry;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5578>;Biochemistry;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/6394>;Neurology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6394>;Neurology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6394>;Neurology (clinical);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6394>;Neurology (clinical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6394>;Cognitive Neuroscience;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6394>;Cognitive Neuroscience;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Agricultural and Biological Sciences (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Agricultural and Biological Sciences (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Agricultural and Biological Sciences (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Medicine (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1401>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Molecular Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Molecular Biology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Molecular Biology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Molecular Biology;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Molecular Biology;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Computational Theory and Mathematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Computational Theory and Mathematics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Computational Theory and Mathematics;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Computational Theory and Mathematics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Computational Theory and Mathematics;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Computational Theory and Mathematics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Cellular and Molecular Neuroscience;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Cellular and Molecular Neuroscience;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Cellular and Molecular Neuroscience;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Cellular and Molecular Neuroscience;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Cellular and Molecular Neuroscience;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Cellular and Molecular Neuroscience;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology, Evolution, Behavior and Systematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology, Evolution, Behavior and Systematics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology, Evolution, Behavior and Systematics;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology, Evolution, Behavior and Systematics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology, Evolution, Behavior and Systematics;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology, Evolution, Behavior and Systematics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Ecology;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Genetics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Genetics;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Genetics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Genetics;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Genetics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Modeling and Simulation;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Modeling and Simulation;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Modeling and Simulation;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Modeling and Simulation;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Modeling and Simulation;Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/5708>;Modeling and Simulation;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Biochemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Biochemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Biochemistry;Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Biochemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Biochemistry;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Medicine (miscellaneous);Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Medicine (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Medicine (miscellaneous);Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Instrumentation;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Instrumentation;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Instrumentation;Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Instrumentation;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Instrumentation;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Analytical Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Analytical Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Analytical Chemistry;Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Analytical Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Analytical Chemistry;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Electrical and Electronic Engineering;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Electrical and Electronic Engineering;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Electrical and Electronic Engineering;Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Electrical and Electronic Engineering;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Electrical and Electronic Engineering;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Atomic and Molecular Physics, and Optics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Atomic and Molecular Physics, and Optics;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Atomic and Molecular Physics, and Optics;Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Atomic and Molecular Physics, and Optics;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/881>;Atomic and Molecular Physics, and Optics;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/5977>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5977>;Public Health, Environmental and Occupational Health;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7999>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Agricultural and Biological Sciences (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Agricultural and Biological Sciences (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Agricultural and Biological Sciences (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Agricultural and Biological Sciences (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Immunology and Microbiology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Immunology and Microbiology (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Immunology and Microbiology (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Immunology and Microbiology (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Neuroscience (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Neuroscience (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Neuroscience (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2568>;Neuroscience (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/4095>;Chemistry (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/1197>;Orthopedics and Sports Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1197>;Surgery;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/481>;Veterinary (miscellaneous);Veterinary
+<http://data.gesis.org/softwarekg/PMC/journal/481>;Veterinary (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/481>;Animal Science and Zoology;Veterinary
+<http://data.gesis.org/softwarekg/PMC/journal/481>;Animal Science and Zoology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Molecular Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Molecular Biology;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Computer Science Applications;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Computer Science Applications;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Computer Science Applications;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Biochemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Biochemistry;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Biochemistry;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Applied Mathematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Applied Mathematics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Applied Mathematics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Structural Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Structural Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/7936>;Structural Biology;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Molecular Biology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Biochemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Biochemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Cell Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Cell Biology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Biotechnology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7277>;Biotechnology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5662>;Drug Discovery;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3727>;Pharmacology (medical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3727>;Oncology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3768>;Cancer Research;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3768>;Cancer Research;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3768>;Oncology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3768>;Oncology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6574>;Health Policy;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/707>;Nursing (miscellaneous);Nursing
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Public Health, Environmental and Occupational Health;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Public Health, Environmental and Occupational Health;Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Public Health, Environmental and Occupational Health;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Safety Research;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Safety Research;Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Safety Research;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Toxicology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Toxicology;Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/3203>;Toxicology;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5930>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5930>;Pulmonary and Respiratory Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5930>;Oncology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/50>;Pulmonary and Respiratory Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/50>;Critical Care and Intensive Care Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7746>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7746>;Complementary and Alternative Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1580>;Multidisciplinary;Multidisciplinary
+<http://data.gesis.org/softwarekg/PMC/journal/4700>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1542>;Public Health, Environmental and Occupational Health;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Medicine (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Medicine (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Immunology and Microbiology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Immunology and Microbiology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Immunology and Microbiology (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Immunology and Microbiology (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Neuroscience (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Neuroscience (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Neuroscience (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/2506>;Neuroscience (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8329>;Neuroscience (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8329>;Neuroscience (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8329>;Histology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8329>;Histology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8329>;Anatomy;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8329>;Anatomy;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Medicine (miscellaneous);Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Environmental Science (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Environmental Science (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3543>;Environmental Science (miscellaneous);Environmental Science
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Medicine (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Medicine (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Analytical Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Analytical Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Analytical Chemistry;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Analytical Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Chemistry (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Chemistry (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Chemistry (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Chemistry (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Drug Discovery;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Drug Discovery;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Drug Discovery;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Drug Discovery;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Pharmaceutical Science;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Pharmaceutical Science;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Pharmaceutical Science;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Pharmaceutical Science;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Physical and Theoretical Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Physical and Theoretical Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Physical and Theoretical Chemistry;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Physical and Theoretical Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Organic Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Organic Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Organic Chemistry;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Organic Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Molecular Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Molecular Medicine;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Molecular Medicine;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/3708>;Molecular Medicine;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8855>;Cancer Research;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8855>;Cancer Research;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8855>;Molecular Medicine;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8855>;Molecular Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8855>;Oncology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8855>;Oncology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3905>;Public Health, Environmental and Occupational Health;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3905>;Public Health, Environmental and Occupational Health;Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/3905>;Health (social science);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3905>;Health (social science);Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/6057>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6057>;Cardiology and Cardiovascular Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/4138>;Infectious Diseases;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/4138>;Infectious Diseases;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/4138>;Virology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/4138>;Virology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/3243>;Hepatology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/3243>;Gastroenterology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/452>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/452>;Biochemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/452>;Cell Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8587>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8587>;Medicine (miscellaneous);Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/8587>;Education;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8587>;Education;Social Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Agricultural and Biological Sciences (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Agricultural and Biological Sciences (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Agricultural and Biological Sciences (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Agricultural and Biological Sciences (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Medicine (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Medicine (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Neuroscience (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Neuroscience (miscellaneous);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Neuroscience (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6629>;Neuroscience (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology and Allergy;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology and Allergy;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology and Allergy;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology and Allergy;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Pharmacology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Pharmacology;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Pharmacology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Pharmacology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Cancer Research;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Cancer Research;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Cancer Research;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Cancer Research;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Molecular Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Molecular Medicine;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Molecular Medicine;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Molecular Medicine;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Oncology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Oncology;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Oncology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Oncology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6087>;Immunology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/4934>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4934>;Molecular Biology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/4934>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4934>;Genetics;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/4934>;Genetics (clinical);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4934>;Genetics (clinical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1295>;Advanced and Specialized Nursing;Nursing
+<http://data.gesis.org/softwarekg/PMC/journal/1295>;Advanced and Specialized Nursing;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1295>;Endocrinology, Diabetes and Metabolism;Nursing
+<http://data.gesis.org/softwarekg/PMC/journal/1295>;Endocrinology, Diabetes and Metabolism;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1295>;Internal Medicine;Nursing
+<http://data.gesis.org/softwarekg/PMC/journal/1295>;Internal Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6240>;Ophthalmology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Chemistry (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Chemistry (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Chemistry (miscellaneous);Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Physics and Astronomy (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Physics and Astronomy (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/4846>;Physics and Astronomy (miscellaneous);Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Chemistry (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Chemistry (miscellaneous);Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Chemistry (miscellaneous);Materials Science
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Condensed Matter Physics;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Condensed Matter Physics;Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Condensed Matter Physics;Materials Science
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Materials Science (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Materials Science (miscellaneous);Physics and Astronomy
+<http://data.gesis.org/softwarekg/PMC/journal/2894>;Materials Science (miscellaneous);Materials Science
+<http://data.gesis.org/softwarekg/PMC/journal/2099>;Anesthesiology and Pain Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7667>;Medical Laboratory Technology;Health Professions
+<http://data.gesis.org/softwarekg/PMC/journal/7667>;Medical Laboratory Technology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7667>;Pathology and Forensic Medicine;Health Professions
+<http://data.gesis.org/softwarekg/PMC/journal/7667>;Pathology and Forensic Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7667>;Histology;Health Professions
+<http://data.gesis.org/softwarekg/PMC/journal/7667>;Histology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6751>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1951>;Health Policy;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Cell Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Cell Biology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Molecular Medicine;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/2406>;Molecular Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8001>;Endocrinology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8001>;Endocrinology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8001>;Endocrinology, Diabetes and Metabolism;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8001>;Endocrinology, Diabetes and Metabolism;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1764>;Neurology (clinical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1764>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5895>;Animal Science and Zoology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5895>;Food Science;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/4953>;Ecology, Evolution, Behavior and Systematics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/4953>;Ecology, Evolution, Behavior and Systematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4953>;Genetics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/4953>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Molecular Biology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Biochemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Biochemistry;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Cellular and Molecular Neuroscience;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Cellular and Molecular Neuroscience;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Physiology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Physiology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Endocrine and Autonomic Systems;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Endocrine and Autonomic Systems;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Endocrinology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/8255>;Endocrinology;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/6312>;Developmental and Educational Psychology;Psychology
+<http://data.gesis.org/softwarekg/PMC/journal/6312>;Developmental and Educational Psychology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6312>;Clinical Psychology;Psychology
+<http://data.gesis.org/softwarekg/PMC/journal/6312>;Clinical Psychology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6312>;Psychiatry and Mental Health;Psychology
+<http://data.gesis.org/softwarekg/PMC/journal/6312>;Psychiatry and Mental Health;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/8047>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1595>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7750>;Cardiology and Cardiovascular Medicine;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Molecular Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Molecular Biology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Molecular Biology;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Molecular Biology;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Computer Science Applications;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Computer Science Applications;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Computer Science Applications;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Computer Science Applications;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Computer Science Applications;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Medicine (miscellaneous);Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Medicine (miscellaneous);Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Medicine (miscellaneous);Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Inorganic Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Inorganic Chemistry;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Inorganic Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Inorganic Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Inorganic Chemistry;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Physical and Theoretical Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Physical and Theoretical Chemistry;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Physical and Theoretical Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Physical and Theoretical Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Physical and Theoretical Chemistry;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Organic Chemistry;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Organic Chemistry;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Organic Chemistry;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Organic Chemistry;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Organic Chemistry;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Catalysis;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Catalysis;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Catalysis;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Catalysis;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Catalysis;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Spectroscopy;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Spectroscopy;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Spectroscopy;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Spectroscopy;Chemistry
+<http://data.gesis.org/softwarekg/PMC/journal/775>;Spectroscopy;Chemical Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/6642>;Electrical and Electronic Engineering;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/6642>;Control and Systems Engineering;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/6642>;Mechanical Engineering;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/5449>;Oncology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6883>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6883>;Cell Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4250>;Animal Science and Zoology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/4250>;Animal Science and Zoology;Veterinary
+<http://data.gesis.org/softwarekg/PMC/journal/4250>;Food Animals;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/4250>;Food Animals;Veterinary
+<http://data.gesis.org/softwarekg/PMC/journal/7341>;Food Science;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/7341>;Food Science;Nursing
+<http://data.gesis.org/softwarekg/PMC/journal/7341>;Nutrition and Dietetics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/7341>;Nutrition and Dietetics;Nursing
+<http://data.gesis.org/softwarekg/PMC/journal/29>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/29>;Pharmacology (medical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/460>;Neurology (clinical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1210>;Pharmaceutical Science;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5918>;Public Health, Environmental and Occupational Health;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5918>;Public Health, Environmental and Occupational Health;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5918>;Pharmacology, Toxicology and Pharmaceutics (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5918>;Pharmacology, Toxicology and Pharmaceutics (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5918>;Infectious Diseases;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5918>;Infectious Diseases;Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5407>;Ecology, Evolution, Behavior and Systematics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5407>;Ecology, Evolution, Behavior and Systematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5407>;Genetics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5407>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5407>;Cell Biology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/5407>;Cell Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Molecular Biology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Genetics;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Virology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Virology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Immunology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Immunology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Microbiology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Microbiology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Parasitology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/506>;Parasitology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Computer Science Applications;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Computer Science Applications;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Computer Science Applications;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Neuroscience (miscellaneous);Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Neuroscience (miscellaneous);Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Neuroscience (miscellaneous);Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Biomedical Engineering;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Biomedical Engineering;Neuroscience
+<http://data.gesis.org/softwarekg/PMC/journal/1640>;Biomedical Engineering;Engineering
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Molecular Biology;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Molecular Biology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Ecology, Evolution, Behavior and Systematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Ecology, Evolution, Behavior and Systematics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Ecology, Evolution, Behavior and Systematics;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Genetics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Genetics;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Cancer Research;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Cancer Research;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Cancer Research;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Genetics (clinical);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Genetics (clinical);Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1600>;Genetics (clinical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Medicine (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Medicine (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Immunology and Microbiology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Immunology and Microbiology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Immunology and Microbiology (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Immunology and Microbiology (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Pharmacology, Toxicology and Pharmaceutics (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Pharmacology, Toxicology and Pharmaceutics (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Pharmacology, Toxicology and Pharmaceutics (miscellaneous);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/5886>;Pharmacology, Toxicology and Pharmaceutics (miscellaneous);Pharmacology, Toxicology and Pharmaceutics
+<http://data.gesis.org/softwarekg/PMC/journal/5072>;Microbiology;Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/5072>;Microbiology;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/5072>;Microbiology (medical);Immunology and Microbiology
+<http://data.gesis.org/softwarekg/PMC/journal/5072>;Microbiology (medical);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1304>;Plant Science;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/3622>;Genetics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/3622>;Biotechnology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/4703>;Ecology, Evolution, Behavior and Systematics;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/4703>;Plant Science;Agricultural and Biological Sciences
+<http://data.gesis.org/softwarekg/PMC/journal/1008>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1008>;Biochemistry, Genetics and Molecular Biology (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/1008>;Medicine (miscellaneous);Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/1008>;Medicine (miscellaneous);Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/7854>;Biophysics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/7483>;Radiology, Nuclear Medicine and Imaging;Medicine
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Molecular Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Molecular Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Molecular Biology;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Computer Science Applications;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Computer Science Applications;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Computer Science Applications;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Modeling and Simulation;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Modeling and Simulation;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Modeling and Simulation;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Applied Mathematics;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Applied Mathematics;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Applied Mathematics;Mathematics
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Structural Biology;Biochemistry, Genetics and Molecular Biology
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Structural Biology;Computer Science
+<http://data.gesis.org/softwarekg/PMC/journal/6489>;Structural Biology;Mathematics
